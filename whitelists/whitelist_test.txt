@@ -1,0 +1,4 @@
+# Gravatar
+gravatar.com
+www.gravatar.com
+en.gravatar.com
