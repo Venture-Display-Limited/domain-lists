@@ -3,10 +3,26 @@
 # Home Automation
 kbjvv4okf4hndx6hle23yqk8lydrku8p.ui.nabu.casa
 
-# Media
-kodi.wiki
-discourse.osmc.tv
+# Kodi
+kodi.tv
 forum.kodi.tv
+kodi.wiki
+
+# OSMC
+osmc.tv
+my.osmc.tv
+discourse.osmc.tv
+blog-cdn.osmc.tv
+download.osmc.tv
+stats.osmc.tv
+
+# Emby
+emby.media
+app.emby.media
+
+# Vero
+getvero.tv
+buy.getvero.tv
 
 # Comma
 comma.ai
