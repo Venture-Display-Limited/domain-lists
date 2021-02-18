@@ -1,0 +1,4661 @@
+
+
+
+wpad.localdomain
+
+# Venture Display Limited / Venture Banners
+
+artwork.guide
+
+# Internal Network
+
+venturebanners.network
+primary.router.venturebanners.network
+secondary.router.venturebanners.network
+
+primary.router.venturebanners.network
+router.business.venturebanners.network
+cameras.business.venturebanners.network
+pihole1.business.venturebanners.network
+pihole2.business.venturebanners.network
+pihole3.business.venturebanners.network
+nas1.business.venturebanners.network
+nas2.business.venturebanners.network
+unifi.business.venturebanners.network
+printer.rip.business.venturebanners.network
+printer.accounts.business.venturebanners.network
+ejabberd.business.venturebanners.network
+syncthing.server.business.venturebanners.network
+im.business.venturebanners.network
+
+
+secondary.router.venturebanners.network
+router.secondary.venturebanners.network
+pihole1.secondary.venturebanners.network
+pihole2.secondary.venturebanners.network
+unifi.secondary.venturebanners.network
+solar.secondary.venturebanners.network
+
+# Hugh Jass
+hughjass.co.uk
+www.hughjass.co.uk
+hughjassdisplay.co.uk
+www.hughjassdisplay.co.uk
+hughjassdisplays.co.uk
+www.hughjassdisplays.co.uk
+hughjass.graphics
+www.hughjass.graphics
+
+
+# Roaming DDNS
+roaming-ddns.venturebanners.network
+scott.roaming-ddns.venturebanners.network
+wayne.roaming-ddns.venturebanners.network
+stevedb.roaming-ddns.venturebanners.network
+ian.roaming-ddns.venturebanners.network
+gavdb.roaming-ddns.venturebanners.network
+
+# DDNS
+backup-internal.ddns.venturebanners.network
+backup-remote.ddns.venturebanners.network
+
+# The Print Show
+the-print-show-2019-exhibitor.reg.buzz
+link-exhibitions-uk-ltd.control.buzz
+
+# Useful for Sales - bollard covers
+rechneronline.de
+www.rechneronline.de
+
+
+# VB Media
+
+vb.media
+www.vb.media
+admin.vb.media
+api.vb.media
+plesk.vb.media
+ws.vb.media
+demo1.vb.media
+demo2.vb.media
+demo3.vb.media
+demo4.vb.media
+demo5.vb.media
+demo6.vb.media
+demo7.vb.media
+demo8.vb.media
+demo9.vb.media
+demo10.vb.media
+demo11.vb.media
+demo12.vb.media
+demo13.vb.media
+demo14.vb.media
+demo15.vb.media
+demo16.vb.media
+demo17.vb.media
+demo18.vb.media
+demo19.vb.media
+demo20.vb.media
+demo21.vb.media
+demo22.vb.media
+demo23.vb.media
+demo24.vb.media
+demo25.vb.media
+demo26.vb.media
+demo27.vb.media
+demo28.vb.media
+demo29.vb.media
+demo30.vb.media
+demo31.vb.media
+demo32.vb.media
+demo33.vb.media
+demo34.vb.media
+demo35.vb.media
+demo36.vb.media
+demo37.vb.media
+demo38.vb.media
+demo39.vb.media
+demo40.vb.media
+demo41.vb.media
+demo42.vb.media
+demo43.vb.media
+demo44.vb.media
+demo45.vb.media
+demo46.vb.media
+demo47.vb.media
+demo48.vb.media
+demo49.vb.media
+demo50.vb.media
+template.vb.media
+templatebkp.vb.media
+media-library.co.uk
+www.media-library.co.uk
+link.sendmailer.email
+media-library.app
+www.media-library.app
+contents.delivery
+www.contents.delivery
+c-d-n.app
+www.c-d-n.app
+c-d.network
+www.c-d.network
+
+# Zendesk
+zendesk.com
+assets.zendesk.com
+support.zendesk.com
+venturedigital.zendesk.com
+static.zdassets.com
+pubsub-shard3-14-2.zendesk.com
+analytics.zendesk.com
+help.zendesk.com
+# 2019-01-15 TBC
+us1-prod-outbound-io-outbound-2287f.firebaseio.com
+s-usc1c-nss-207.firebaseio.com
+ekr.zdassets.com
+# 2019-08-23 TBC
+s-usc1c-nss-220.firebaseio.com
+
+
+# Uptime & Monitoring
+uptime.com
+www.uptime.com
+uptimerobot.com
+www.uptimerobot.com
+
+
+# VB Media Customers
+
+ladigitalprint.shop
+www.ladigitalprint.shop
+printingfocus.biz
+www.printingfocus.biz
+spiralgraphics.biz
+www.spiralgraphics.biz
+ritch.graphics
+www.ritch.graphics
+s4bprint.online
+www.s4bprint.online
+hbdigitalprint.store
+www.hbdigitalprint.store
+printed.gg
+shop.printed.gg
+wwww.printed.gg
+gpps.biz
+www.gpps.biz
+gpprintstore.com
+www.gpprintstore.com
+prntit.com
+www.prntit.com
+bsprint.info
+www.bsprint.info
+printstuffuk.com
+www.printstuffuk.com
+saorsaprint.scot
+www.saorsaprint.scot
+weprintit.shop
+www.weprintit.shop
+printpit.online
+www.printpit.online
+
+# VB Media Customer Website Technologies
+code.tidio.co
+
+# VB Media Cloners
+rhemon.me
+www.rhemon.me
+
+# VB Media Meeting
+chili-publish.zoom.us
+
+# Customer Websites
+
+upbeat.design
+lennon.design
+digitalfusion.online
+s4b.online
+signsaver.online
+aq2.info
+b2bevents.info
+expresssigns.info
+multicolour.info
+commercialsigns.info
+designpartners.info
+forestgarden.info
+mwba.info
+multiprint.info
+psds.info
+redcell.info
+selectsigns.info
+signtec.info
+spacesolutions.info
+thesigncompany.info
+ubercreative.info
+viper.design
+almuth.graphics
+brio.graphics
+signit.graphics
+sgs.graphics
+quicks.biz
+familysmith.biz
+gss.biz
+quicks.biz
+network.biz
+alphasigns.biz
+anyit.biz
+big-john.biz
+blueflamedesign.biz
+chameleonprint.biz
+copyprint.biz
+cuberoot.biz
+digitalprintuk.biz
+huby.biz
+elitesigns.biz
+enigmasigns.biz
+hartington.biz
+fordesigns.biz
+formatgraphics.biz
+freshprint.biz
+fproj.biz
+glenside.biz
+green-umbrella.biz
+broadleys.biz
+iprintsolutions.biz
+identiti.biz
+innovationsigns.biz
+lindleys.biz
+majuba.biz
+mjgl.biz
+schils.biz
+thesignmakers.biz
+premierprintit.biz
+preseli.biz
+presson.biz
+signhere.biz
+sign-it.biz
+sott.biz
+swanprint.biz
+thegyst.biz
+osps.biz
+sprinterprinter.biz
+vasigns.biz
+walesprint.biz
+wisdoms.biz
+opus.eu
+ttpg.eu
+anderco.eu
+chemicar.eu
+classicprinters.eu
+printsource.eu
+eatopia.eu
+ecoprintni.eu
+adflags.eu
+gma.eu.com
+grandstands.eu
+hampshireflag.eu
+craevents.eu
+macid.eu
+oliveexpress.eu
+printstrategy.eu
+awtaylor.eu
+xpressgroup.eu
+teare.eu
+theprintpeople.eu
+willprint.eu
+abgraphics.eu
+kkstjames.london
+southsideprintse1.london
+printit.london
+printville.london
+gwp.london
+kudos.company
+beaconsigns.ie
+bonus-print.ie
+cbmsigns.ie
+dbsl.ie
+discountprint.ie
+ecolodge.ie
+jaysprinting.ie
+griffin.ie
+kwikprintplus.ie
+signhere.ie
+reid.ie
+signapps.ie
+jervis.snap.ie
+printworks.ie
+uppercase.ie
+vga.ie
+etagsigns.ie
+youngsmedia.productions
+cdlgroup.ltd
+signpro.eu
+youmedia.online
+lex.plus
+weprinteverything.london
+uberdesign.info
+newtonegroup.ie
+signx.graphics
+graphix.me
+kbrprint.shop
+reflexprint.shop
+harrison.hn
+web365.rocks
+wearecake.agency
+printdesign.store
+lighthousegraphics.info
+qfc.ie
+voodoodesign.agency
+routepr.agency
+colourprint.shop
+nowprint.info
+excel.london
+www.excel.london
+jaldesignandprint.business.site
+printcheck.ie
+www.printcheck.ie
+theprint.ninja
+www.theprint.ninja
+premierprint.biz
+www.premierprint.biz
+newelementsolutions.info
+www.newelementsolutions.info
+theproject.ltd
+www.theproject.ltd
+signprint.work
+www.signprint.work
+sussexbanners.com
+www.sussexbanners.com
+
+# Cimpress / Tradeprint
+c-cluster-110.uploads.documents.cimpress.io
+
+# Pitney Bowes Franking Machine
+slpb-eu-west-1-imp03a.boxen.sl.pb.com
+imp.sl.pb.com
+imp.irl.sl.pb.com
+slpb-eu-west-1-imp01b.boxen.sl.pb.com
+
+# Google
+
+google.de
+
+# Google Charts
+google-developers.appspot.com
+gstatic.com
+www.gstatic.com
+developers-dot-devsite-v2-prod.appspot.com
+
+
+# File Transfers
+
+we.tl
+mbf.me
+mbf.cc
+
+# Microsoft OneDrive
+1drv.ms
+fil.email
+filemail.com
+www.filemail.com
+
+
+# Stripe
+
+m.stripe.network
+pnl.ink
+www.pnl.ink
+
+
+# Cloudflare
+
+cl.ly
+
+
+
+# PocketCasts
+
+pca.st
+cdn.paddle.com
+
+
+# Video
+youtu.be
+
+
+vimeo.com
+www.vimeo.com
+
+
+# Web Assets/CDNs
+
+cdn.polyfill.io
+unpkg.com
+www.unpkg.com
+
+
+# Web Dev
+
+placehold.it
+requestb.in
+codecademy.cloud
+viewdns.info
+codepen.io
+registry.bower.io
+caniuse.bitsofco.de
+postcss.parts
+yarn.pm
+themockup.club
+browserl.ist
+allyoucan.cloud
+who.is
+myip.ms
+lea.verou.me
+hex.pm
+hexdocs.pm
+repo.hex.pm
+endangered.photo
+insomnia.rest
+codepen.website
+mockup.photos
+snook.ca
+img.snook.ca
+wdrl.info
+dev.to
+crt.sh
+dev.tube
+persistent.info
+oliverhough.cloud
+conn.internet.nl
+solarwinds.cloud
+css-irl.info
+flexbox.ninja
+davidwalsh.name
+www.davidwalsh.name
+cssfx.dev
+www.cssfx.dev
+every-layout.dev
+www.every-layout.dev
+w3.tools
+www.w3.tools
+npm.community
+www.npm.community
+webplatform.news
+www.webplatform.news
+buddy.works
+www.buddy.works
+codechalleng.es
+www.codechalleng.es
+carbon.now.sh
+htmhell.dev
+www.htmhell.dev
+brumm.af
+www.brumm.af
+futurefonts.xyz
+www.futurefonts.xyz
+una.im
+www.una.im
+themer.dev
+www.themer.dev
+froala.com
+www.froala.com
+
+
+# Web Security
+
+report-uri.io
+www.report-uri.io
+report-uri.com
+www.report-uri.com
+cdn.report-uri.com
+venturebanners.report-uri.io
+monitor.report-uri.io
+securityheaders.io
+www.securityheaders.io
+tls.imirhil.fr
+rebind.network
+www.rebind.network
+securitycheckli.st
+www.securitycheckli.st
+certificate.tools
+www.certificate.tools
+featurepolicy.info
+www.featurepolicy.info
+
+
+# Microsoft
+
+microsoft.com
+www.microsoft.com
+
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1809-endpoints
+
+statics-neu.onestore.ms
+assets.onestore.ms
+auth.gfx.ms
+aka.ms
+
+
+# Ubuntu / Debian
+
+api.snapcraft.io
+snapcraft.io
+apt.sparkz.no
+sparkz.no
+
+
+
+# Software
+
+# Sublime Text
+packagecontrol.io
+codeload.github.com
+packages.monokai.pro
+monokai.pro
+
+# KeePass
+keepass.info
+
+# Wacom
+wacom.eu
+
+# Adobe
+adobe.ly
+
+# Adobe Scripts
+scripts.corullon.com.br
+corullon.com.br
+www.corullon.com.br
+
+# Pidgin
+pidgin.im
+
+# Ejabberd
+ejabberd.im
+www.ejabberd.im
+docs.ejabberd.im
+
+# Mongooseim
+mongooseim.readthedocs.io
+
+# Prosody
+prosody.im
+www.prosody.im
+
+# FastMail
+api.pin.net.au
+
+# Postmark
+ea.pstmrk.it
+click.pstmrk.it
+
+# PiVPN
+pivpn.dev
+www.pivpn.dev
+
+# Chocolately
+chocolatey.org
+www.chocolatey.org
+
+# curl
+curl.haxx.se
+daniel.haxx.se
+haxx.se
+confusedbycode.com
+www.confusedbycode.com
+www.curl.se
+curl.se
+
+# Opera
+opera.software
+desktop-qualityclient-sub.osp.opera.software
+extension-updates.opera.com
+autoupdate.geo.opera.com
+sd-images.operacdn.com
+speeddials.opera.com
+addons-media.operacdn.com
+addons.opera.com
+download.opera.com
+redir.opera.com
+sitecheck.opera.com
+exchange.opera.com
+net.geo.opera.com
+
+# Authy
+api.authy.com
+authy.com
+www.authy.com
+
+# Remarkable
+remarkable.engineering
+get-updates.cloud.remarkable.engineering
+updates.cloud.remarkable.engineering
+
+# Handbrake
+handbrake.fr
+www.handbrake.fr
+download2.handbrake.fr
+
+# FontBase
+fontba.se
+www.fontba.se
+api.fontba.se
+releases.fontba.se
+
+# Buttercup
+buttercup.pw
+www.buttercup.pw
+
+# Rufus
+rufus.ie
+www.rufus.ie
+
+# Fiddler
+fiddler2.com
+www.fiddler2.com
+
+# Mumble
+mumble.com
+www.mumble.com
+update.mumble.info
+# mumble.info - blocked to disable the public serverlist
+# www.mumble.info - blocked to disable the public serverlist
+wiki.mumble.info
+dl.mumble.info
+
+# Sandboxie
+sandboxie.com
+www.sandboxie.com
+
+# Endoflife
+endoflife.date
+www.endoflife.date
+
+# Veracrypt
+veracrypt.fr
+www.veracrypt.fr
+
+
+# Blender
+ftp.nluug.nl
+
+
+
+# Operating Systems
+getsol.us
+www.getsol.us
+
+# iStockPhoto
+istockphoto.com
+www.istockphoto.com
+download.gettyimages.com
+
+# Picsum Photos
+picsum.photos
+www.picsum.photos
+i.picsum.photos
+
+# Suppliers
+
+walshgraphics.ie
+snuggle.partners
+expomax.com.cn
+zund.dk
+www.zund.dk
+mtex.eu
+www.mtex.eu
+correio.mtex.eu
+cmtelecom.info
+neschen.de
+www.neschen.de
+smc.eu
+www.smc.eu
+static.smc.eu
+nkkswitches.eu
+www.nkkswitches.eu
+
+# Route 1 Emails
+i.emlfiles4.com
+
+# Viking
+ods.datainterconnect.com
+
+# Hand forklift
+jungheinrich.de
+www.jungheinrich.de
+transfer.jungheinrich.de
+
+
+# Security
+
+passwordsecurity.info
+canary.tools
+chronicle.security
+go.chronicle.security
+www.chronicle.security
+
+# DNS
+opendns.com
+www.opendns.com
+dnstap.info
+www.dnstap.info
+dnsdb.info
+www.dnsdb.info
+api.dnsdb.info
+dnsrpz.info
+www.dnsrpz.info
+no-ip.com
+www.no-ip.com
+noip.com
+www.noip.com
+
+
+# Technology
+cern.ch
+www.cern.ch
+web30.web.cern.ch
+
+# Windows Reading
+tenforums.com
+www.tenforums.com
+
+# Android Apps
+
+# Not sure what app uses this push notification service
+mqtt.pushy.me
+
+
+
+# Tawk.to
+
+static-a.tawk.to
+static-v.tawk.to
+embed.tawk.to
+va.tawk.to
+tawk.to
+dashboard.tawk.to
+vs1.tawk.to
+vs2.tawk.to
+vs3.tawk.to
+vs4.tawk.to
+vs5.tawk.to
+vs6.tawk.to
+vs7.tawk.to
+vs8.tawk.to
+vs9.tawk.to
+vs10.tawk.to
+vs11.tawk.to
+vs12.tawk.to
+vs13.tawk.to
+vs14.tawk.to
+vs15.tawk.to
+vs16.tawk.to
+vs17.tawk.to
+vs18.tawk.to
+vs19.tawk.to
+vs20.tawk.to
+vs21.tawk.to
+vs22.tawk.to
+vs23.tawk.to
+vs24.tawk.to
+vs25.tawk.to
+vs26.tawk.to
+vs27.tawk.to
+vs28.tawk.to
+vs29.tawk.to
+vs30.tawk.to
+vs31.tawk.to
+vs32.tawk.to
+vs33.tawk.to
+vs34.tawk.to
+vs35.tawk.to
+vs36.tawk.to
+vs37.tawk.to
+vs38.tawk.to
+vs39.tawk.to
+vs40.tawk.to
+vs41.tawk.to
+vs42.tawk.to
+vs43.tawk.to
+vs44.tawk.to
+vs45.tawk.to
+vs46.tawk.to
+vs47.tawk.to
+vs48.tawk.to
+vs49.tawk.to
+vs50.tawk.to
+vs51.tawk.to
+vs52.tawk.to
+vs53.tawk.to
+vs54.tawk.to
+vs55.tawk.to
+vs56.tawk.to
+vs57.tawk.to
+vs58.tawk.to
+vs59.tawk.to
+vs60.tawk.to
+
+vs61.tawk.to
+vs62.tawk.to
+vs63.tawk.to
+vs64.tawk.to
+vs65.tawk.to
+vs66.tawk.to
+vs67.tawk.to
+vs68.tawk.to
+vs69.tawk.to
+vs70.tawk.to
+vs71.tawk.to
+vs72.tawk.to
+vs73.tawk.to
+vs74.tawk.to
+vs75.tawk.to
+vs76.tawk.to
+vs77.tawk.to
+vs78.tawk.to
+vs79.tawk.to
+vs80.tawk.to
+vs81.tawk.to
+vs82.tawk.to
+vs83.tawk.to
+vs84.tawk.to
+vs85.tawk.to
+vs86.tawk.to
+vs87.tawk.to
+vs88.tawk.to
+vs89.tawk.to
+vs90.tawk.to
+vs91.tawk.to
+vs92.tawk.to
+vs93.tawk.to
+vs94.tawk.to
+vs95.tawk.to
+vs96.tawk.to
+vs97.tawk.to
+vs98.tawk.to
+vs99.tawk.to
+vs100.tawk.to
+
+
+
+asa1.tawk.to
+asa2.tawk.to
+asa3.tawk.to
+asa4.tawk.to
+asa5.tawk.to
+asa6.tawk.to
+asa7.tawk.to
+asa8.tawk.to
+asa9.tawk.to
+asa10.tawk.to
+asa11.tawk.to
+asa12.tawk.to
+asa13.tawk.to
+asa14.tawk.to
+asa15.tawk.to
+asa16.tawk.to
+asa17.tawk.to
+asa18.tawk.to
+asa19.tawk.to
+asa20.tawk.to
+asa21.tawk.to
+asa22.tawk.to
+asa23.tawk.to
+asa24.tawk.to
+asa25.tawk.to
+asa26.tawk.to
+asa27.tawk.to
+asa28.tawk.to
+asa29.tawk.to
+asa30.tawk.to
+asa31.tawk.to
+asa32.tawk.to
+asa33.tawk.to
+asa34.tawk.to
+asa35.tawk.to
+asa36.tawk.to
+asa37.tawk.to
+asa38.tawk.to
+asa39.tawk.to
+asa40.tawk.to
+asa41.tawk.to
+asa42.tawk.to
+asa43.tawk.to
+asa44.tawk.to
+asa45.tawk.to
+asa46.tawk.to
+asa47.tawk.to
+asa48.tawk.to
+asa49.tawk.to
+asa50.tawk.to
+asa51.tawk.to
+asa52.tawk.to
+asa53.tawk.to
+asa54.tawk.to
+asa55.tawk.to
+asa56.tawk.to
+asa57.tawk.to
+asa58.tawk.to
+asa59.tawk.to
+asa60.tawk.to
+asb1.tawk.to
+asb2.tawk.to
+asb3.tawk.to
+asb4.tawk.to
+asb5.tawk.to
+asb6.tawk.to
+asb7.tawk.to
+asb8.tawk.to
+asb9.tawk.to
+asb10.tawk.to
+asb11.tawk.to
+asb12.tawk.to
+asb13.tawk.to
+asb14.tawk.to
+asb15.tawk.to
+asb16.tawk.to
+asb17.tawk.to
+asb18.tawk.to
+asb19.tawk.to
+asb20.tawk.to
+asb21.tawk.to
+asb22.tawk.to
+asb23.tawk.to
+asb24.tawk.to
+asb25.tawk.to
+asb26.tawk.to
+asb27.tawk.to
+asb28.tawk.to
+asb29.tawk.to
+asb30.tawk.to
+asb31.tawk.to
+asb32.tawk.to
+asb33.tawk.to
+asb34.tawk.to
+asb35.tawk.to
+asb36.tawk.to
+asb37.tawk.to
+asb38.tawk.to
+asb39.tawk.to
+asb40.tawk.to
+asb41.tawk.to
+asb42.tawk.to
+asb43.tawk.to
+asb44.tawk.to
+asb45.tawk.to
+asb46.tawk.to
+asb47.tawk.to
+asb48.tawk.to
+asb49.tawk.to
+asb50.tawk.to
+asb51.tawk.to
+asb52.tawk.to
+asb53.tawk.to
+asb54.tawk.to
+asb55.tawk.to
+asb56.tawk.to
+asb57.tawk.to
+asb58.tawk.to
+asb59.tawk.to
+asb60.tawk.to
+
+
+# Registrar
+
+uniregistry.help
+nic.im
+namecheap.com
+www.namecheap.com
+
+# Tradeprint
+cdn-eu.dynamicyield.com
+
+
+# Communication
+
+zoom.us
+tradeprint.zoom.us
+
+
+# Blacklists
+
+adblock.mahakala.is
+zeustracker.abuse.ch
+ransomwaretracker.abuse.ch
+feodotracker.abuse.ch.abuse.ch
+easylist.to
+lists.disconnect.me
+hostsfile.mine.nu
+mirror.cedia.org.ec
+isc.sans.edu
+qkly.xyz
+blocklist.site
+www.blocklist.site
+
+
+
+# Canary
+
+snowplow.canary.is
+my.canary.is
+canary.is
+www.canary.is
+
+
+
+# URL Unshorteners
+unshorten.it
+
+
+
+
+# Podcasts
+
+# Pocket Casts
+podcasts.shiftyjelly.com.au
+
+traffic.megaphone.fm
+dcs.megaphone.fm
+npr.streaming.adswizz.com
+cf-npr.streaming.adswizz.com
+aod-pod-uk-live.bbcfmt.hs.llnwd.net
+
+# Stuff You Should Know
+podtrac.com
+www.podtrac.com
+pdst.fm
+chtbl.com
+traffic.megaphone.fm
+dcs.megaphone.fm
+
+# Risky Business
+risky.biz
+media2.risky.biz
+media3.risky.biz
+
+# Twit
+twit.tv
+cdn.twit.tv
+elroycdn.twit.tv
+elroy.twit.tv
+ssl.p.jwpcdn.com
+
+tracking.feedpress.it
+assets.megaphone.fm
+player.megaphone.fm
+waveforms.megaphone.fm
+static.aboveandbeyond.nu
+aboveandbeyond.nu
+5by5.tv
+tracking.feedpress.it
+feedpress.it
+redirect.lime.link
+
+# Elixir Mix
+devchat.tv
+media.devchat.tv
+
+
+
+# Gaming
+
+jackbox.tv
+inara.cz
+steam.tv
+
+# SWOS
+sensiblesoccer.de
+www.sensiblesoccer.de
+swos.eu
+files.swos.eu
+netplay.swos.eu
+s.w.org
+
+
+# News
+
+bbc.in
+huffingtonpost.in
+abc.net.au
+www.abc.net.au
+
+
+
+# Chat
+
+g-d1.0.threema.ch
+g-02.0.threema.ch
+api.threema.ch
+threema.ch
+
+
+# Blogs, Reading etc.
+
+redd.it
+i.redd.it
+preview.redd.it
+api.embed.ly
+cdn.embed.ly
+troy.hn
+fastmail.blog
+mango.pdf.zone
+pdf.zone
+threader.app
+blog.google
+www.blog.google
+write.as
+www.write.as
+motherboard.vice.com
+cyberciti.biz
+www.cyberciti.biz
+perishablepress.com
+www.perishablepress.com
+hackaday.com
+www.hackaday.com
+feedproxy.google.com
+thewalrus.ca
+www.thewalrus.ca
+vice.com
+www.vice.com
+behance.net
+www.behance.net
+9to5google.com
+www.9to5google.com
+quora.com
+www.quora.com
+stackoverflow.com
+www.stackoverflow.com
+stackoverflow.blog
+www.stackoverflow.blog
+
+# Science
+phys.org
+www.phys.org
+
+
+# Wordpress
+public-api.wordpress.com
+widgets.wordpress.com
+
+
+# Staff
+
+s.essexlive.news
+i2-prod.essexlive.news
+i1.essexlive.news
+i2.essexlive.news
+i3.essexlive.news
+i4.essexlive.news
+property.essexlive.news
+www.essexlive.news
+essexlive.news
+s2-prod.essexlive.news
+
+
+# Gaming
+
+twitch.tv
+www.twitch.tv
+spade.twitch.tv
+player.twitch.tv
+clips.twitch.tv
+d2v02itv0y9u9t.cloudfront.net
+api.twitch.tv
+cvp.twitch.tv
+gql.twitch.tv
+irc-ws.chat.twitch.tv
+pubsub-edge.twitch.tv
+clips-media-assets2.twitch.tv
+countess.twitch.tv
+polyfill.twitchsvc.net
+cdn-gl.imrworldwide.com
+secure-dcr.imrworldwide.com
+offline.twitch.tv
+passport.twitch.tv
+id.twitch.tv
+irc-ws-ga.chat.twitch.tv
+static.twitchcdn.net
+link.twitch.tv
+m.twitch.tv
+id-cdn.twitch.tv
+
+
+# Comms
+
+gateway.discord.gg
+
+
+# VPN
+# AirVPN
+eddie.website
+secure.avangate.com
+
+kfyxnedtdubchxy.top
+
+
+
+
+# Google
+
+photos.app.goo.gl
+blog.google
+www.domains.google
+domains.google
+registry.google
+www.registry.google
+get.dev
+www.get.dev
+
+
+# TeamViewer
+
+dl.tvcdn.de
+
+
+# Shopping
+
+# Argos
+argos.co.uk
+www.argos.co.uk
+media.4rgos.it
+
+chelmsfordstar.coop
+
+# Steve K
+reverb.com
+www.reverb.com
+
+# Firebox
+firebox.com
+www.firebox.com
+
+# Amazon
+amazon.com
+www.amazon.com
+amazon.co.uk
+www.amazon.co.uk
+fls-eu.amazon.co.uk
+aax-eu.amazon-adsystem.com
+
+# Etsy
+etsy.com
+www.etsy.com
+
+# Shopify
+cdn.shopify.com
+cdn2.shopify.com
+
+# Moonpig
+moonpig.com
+www.moonpig.com
+
+# Barner Glasses
+barnerbrand.com
+www.barnerbrand.com
+
+
+
+# Payment
+# Incab
+
+incab.se
+
+
+# James H
+
+partners.brother.eu
+
+
+# Mike C
+
+img.ui-portal.de
+js.ui-portal.de
+sec-s.uicdn.com
+3c-lxa.mail.com
+mailderef.mail.com
+
+
+
+
+# Jackie
+
+castlecourthotel.ie
+
+
+# David O
+
+pinboard.in
+plataformatec.com.br
+
+
+# Scott C
+
+villacc.de
+www.villacc.de
+capecoral.de
+www.capecoral.de
+
+
+# Suppliers
+
+newsolution.eu
+bannermate.com.cn
+# http://content.orwakeasi.co.uk/Orwak-Multi-Balers/
+marketingautomation.services
+app-3qnc1ocmp8.marketingautomation.services
+
+
+# Discussion
+
+disq.us
+
+
+# Travel
+
+essexhighways.org
+static.one.network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# =========================================================
+# BLACKLIST SOURCES
+# =========================================================
+
+raw.githubusercontent.com
+mirror1.malwaredomains.com
+sysctl.org
+zeustracker.abuse.ch
+s3.amazonaws.com
+
+pi-hole.int-vb.co.uk
+www.malwaredomainlist.com
+ransomwaretracker.abuse.ch
+winhelp2002.mvps.org
+pilotfiber.dl.sourceforge.net
+raw.github.com
+v.firebog.net
+someonewhocares.org
+adaway.org
+adblock.mahakala.is
+gist.githubusercontent.com
+hostsfile.mine.nu
+hostsfile.org
+reddestdream.github.io
+hosts-file.net
+bitbucket.org
+mirror.cedia.org.ec
+pgl.yoyo.org
+isc.sans.edu
+www.dshield.org
+www.joewein.net
+jasonhill.co.uk
+qkly.xyz
+tspprs.com
+phishing.army
+hosts.ubuntu101.co.za
+dbl.oisd.nl
+
+
+# =========================================================
+# VENTURE
+# =========================================================
+
+vb-oa.co.uk
+www.vb-oa.co.uk
+dev.vb-oa.co.uk
+venturebanners.co.uk
+www.venturebanners.co.uk
+api.venturebanners.co.uk
+thumbnails.venturebanners.co.uk
+thumbnails.venturebanners.co.uk
+email-images.venturebanners.co.uk
+static.venturebanners.co.uk
+artwork-thumbnails.venturebanners.co.uk
+blog.venturebanners.co.uk
+blogdev.venturebanners.co.uk
+campaignmonitor.venturebanners.co.uk
+campaign-monitor.venturebanners.co.uk
+click.pm.venturebanners.co.uk
+cm-link.venturebanners.co.uk
+autodiscover.venturebanners.co.uk
+blacklist-test.venturebanners.co.uk
+csp-reporting.venturebanners.co.uk
+email.mg.venturebanners.co.uk
+link.email.venturebanners.co.uk
+lyncdiscover.venturebanners.co.uk
+msoid.venturebanners.co.uk
+mta-sts.email.venturebanners.co.uk
+mta-sts.venturebanners.co.uk
+office.venturebanners.co.uk
+pm-bounces.pm.venturebanners.co.uk
+pm.venturebanners.co.uk
+selector1._domainkey.venturebanners.co.uk
+selector2._domainkey.venturebanners.co.uk
+sip.venturebanners.co.uk
+uptime.venturebanners.co.uk
+ws.venturebanners.co.uk
+
+
+vb.media
+www.vb.media
+dev-api.vb.media
+int-vb.co.uk
+pi-hole.int-vb.co.uk
+cameras.int-vb.co.uk
+
+# Redirecting domains
+venturebanners.uk
+www.venturebanners.uk
+venturebanners.dev
+www.venturebanners.dev
+venture-banners.com
+www.venture-banners.com
+venture-banners.co.uk
+www.venture-banners.co.uk
+
+# Artwork thumbnails
+d3yl9uo19dj0.cloudfront.net
+
+# WeTransfer
+venture.wetransfer.com
+sendgrid.net
+prod-cdn.wetransfer.net
+
+# VB-OA
+chart.googleapis.com
+quickchart.io
+www.quickchart.io
+quickchart-eu7vrotrfq-uc.a.run.app
+
+# FabriVU VPN
+as.pro.talk2m.com
+device.vpn26.talk2m.com
+ewon.biz
+www.ewon.biz
+
+# Caldera
+workspace.caldera.com
+caldera.com
+www.caldera.com
+calderanet.caldera.com
+ems.caldera.com
+host-1.dcl1.ems.caldera.com
+
+# FabriVU
+as.pro.talk2m.com
+vpn-itbg.efi.com
+
+# Ubiquiti/UniFi
+account.ubnt.com
+ubnt.com
+www.ubnt.com
+unifi-report.ubnt.com
+fw-download.ubnt.com
+c3sdnuexugkg7e.credentials.iot.us-west-2.amazonaws.com
+ui.com
+www.ui.com
+fw-update.ubnt.com
+dl.ubnt.com
+unifi-report.ubnt.com
+cloudaccess.svc.ubnt.com
+elite-device.svc.ubnt.com
+ping.ui.com
+ping.ubnt.com
+
+# Image Reports
+campaign-image.eu
+eurp.maillist-manage.eu
+
+# Xero
+xero.com
+www.xero.com
+go.xero.com
+api.xero.com
+login.xero.com
+payroll.xero.com
+central.xero.com
+reporting.xero.com
+edge.xero.com
+identity.xero.com
+connect-banking.xero.com
+xero--c.na78.content.force.com
+login.salesforce.com
+
+# GoCardless
+gocardless.com
+www.gocardless.com
+manage.gocardless.com
+gocardless.cdn.prismic.io
+xero.gocardless.com
+api.gocardless.com
+
+# DynamicDNS for Staff
+# Scott C 2019-04
+scott-boariardym.ddns.net
+# Steve De Boos 2019-04
+stevedb-idgerbinke.ddns.net
+
+# Solar Power
+ginlongmonitoring.com
+www.ginlongmonitoring.com
+m.ginlong.com
+file.solarman.cn
+restapi.amap.com
+data1.solarmanpv.com
+data2.solarmanpv.com
+solarman.cn
+www.solarman.cn
+assets-cli.udesk.cn
+pro.solarman.cn
+
+
+
+# =========================================================
+# DOWNLOADS
+# =========================================================
+
+# WeTransfer
+wetransfer.com
+www.wetransfer.com
+ab.wetransfer.net
+download.wetransfer.com
+systemstatus.wetransfer.com
+cdn.wetransfer.net
+email.wetransfer.com
+we.tl
+email.wetransfer.com
+backgrounds.wetransfer.net
+
+# Hightail
+api.spaces.hightail.com
+download.spaces.hightail.com
+spaces-hightail.global.ssl.fastly.net
+spaces.hightail.com
+
+
+# =========================================================
+# GOOGLE
+# =========================================================
+
+# Google Analytics
+analytics.google.com
+google-analytics.com
+www.google-analytics.com
+ssl.google-analytics.com
+www-google-analytics.l.google.com
+adwords.google.com
+ssl.gstatic.com
+ads.google.com
+
+# Google Search
+googleadservices.com
+webcache.googleusercontent.com
+googleusercontent.com
+search.app.goo.gl
+
+# Google & Chrome
+chrome.google.com
+calendar.google.com
+cello.client-channel.google.com
+chart.googleapis.com
+clients.l.google.com
+gg.google.com
+google.com
+googleapis.l.google.com
+gstaticadssl.l.google.com
+play.google.com
+safebrowsing-cache.google.com
+safebrowsing.google.com
+safebrowsing.googleapis.com
+sb.l.google.com
+ssl.gstatic.com
+www.google.com
+www3.l.google.com
+google.co.uk
+www.google.co.uk
+id.google.co.uk
+id.google.com
+cse.google.co.uk
+storage.googleapis.com
+chrome-devtools-frontend.appspot.com
+update.googleapis.com
+
+# Google Chrome Spell Check Dictionary
+cache.pack.google.com
+redirector.gvt1.com
+
+# Google Images
+images.google.com
+encrypted-tbn0.gstatic.com
+
+# Google Maps
+maps.googleapis.com
+csi.gstatic.com
+encrypted.google.com
+maps.app.goo.gl
+khms1.googleapis.com
+khms0.googleapis.com
+
+# Google Photos
+video-downloads.googleusercontent.com
+
+# Google Maps StreetView
+geo3.ggpht.com
+
+# Google Fonts
+fonts.googleapis.com
+fonts.gstatic.com
+ajax.googleapis.com
+
+# Google Ads
+www.googleadservices.com
+
+# Google Chrome Extension Updates
+clients2.google.com
+
+# Google Wi-Fi/Captive Portal Connectivity
+clients3.google.com
+
+# Google Chrome Sync?
+clients4.google.com
+
+# Unknown Google Services
+clients1.google.com
+clients5.google.com
+clients6.google.com
+
+# Gmail
+mail.google.com
+gmail.com
+ci3.googleusercontent.com
+ci4.googleusercontent.com
+ci5.googleusercontent.com
+mail-attachment.googleusercontent.com
+
+# Google (Testing)
+googletagmanager.com
+www.googletagmanager.com
+
+# Google Groups
+groups.google.com
+
+# Google Developers
+developers.google.com
+
+# Google Drive / Google Docs
+www-ritz-opensocial.googleusercontent.com
+
+# Google / Android
+mobilenetworkscoring-pa.googleapis.com
+time.android.com
+semanticlocation-pa.googleapis.com
+
+# Telephony
+telephonyspamprotect-pa.googleapis.com
+
+# TBC
+notifications.google.com
+ogs.google.com
+lh3.googleusercontent.com
+google.com
+googleapis.com
+clients4.google.com
+ajax.googleapis.com
+mail.google.com
+plus.google.com
+sites.google.com
+chat-pa.clients6.google.com
+chatenabled.mail.google.com
+clients1.google.com
+docs.google.com
+play.google.com
+blogsearch.google.com
+securetoken.googleapis.com
+people-pa.clients6.google.com
+googleapis.com
+www.googleapis.com
+lh3.googleusercontent.com
+clientservices.googleapis.com
+smartlock.google.com
+
+# Security Initiatives
+safe.page
+www.safe.page
+
+
+# =========================================================
+# ANDROID
+# =========================================================
+
+# Android
+connectivitycheck.android.com
+connectivitycheck.gstatic.com
+android.clients.google.com
+play.googleapis.com
+appspot-preview.l.google.com
+
+# Motorola OTA Updates
+moto-cds.appspot.com
+
+# Pixel OTA Updates
+ota.googlezip.net
+proxy.googlezip.net
+check.googlezip.net
+
+# Samsung
+# Noisy domain from tablets, testing allowing 2019-05-25
+api.spd.samsungdm.com
+
+# EE
+gb.ee.rcs.telephony.goog
+api.ee.co.uk
+id.ee.co.uk
+
+
+# =========================================================
+# MICROSOFT
+# =========================================================
+
+# https://docs.microsoft.com/en-us/windows/configuration/manage-windows-endpoints-version-1709
+
+# Windows Network Connectivity
+msftncsi.com
+www.msftncsi.com
+msftconnecttest.com
+www.msftconnecttest.com
+ipv6.msftncsi.com
+
+# Windows Licensing
+activation-v2.sls.microsoft.com
+validation-v2.sls.microsoft.com
+licensing.mp.microsoft.com
+
+# Windows & Windows Update
+teredo.ipv6.microsoft.com
+ctldl.windowsupdate.com
+ds.download.windowsupdate.com
+fe2.update.microsoft.com
+fe2.update.microsoft.com.nsatc.net
+download.windowsupdate.com
+au.download.windowsupdate.com
+au.au-msedge.net
+au.c-0001.c-msedge.net
+c-0001.c-msedge.net is
+www.microsoft.com
+wscont.apps.microsoft.com
+dns.msftncsi.com
+diagnostics.support.microsoft.com
+support.microsoft.com
+licensing.mp.microsoft.com
+login.msa.akadns6.net
+storecatalogrevocation.storequality.microsoft.com
+go.microsoft.com
+fg.download.windowsupdate.com.c.footprint.net
+sls.update.microsoft.com
+fe3.delivery.mp.microsoft.com
+fs.microsoft.com
+cy2.settings.data.microsoft.com.akadns.net
+software-download.microsoft.com
+3.dl.delivery.mp.microsoft.com
+3.dl.delivery.mp.microsoft.com.c.footprint.net
+3.tlu.dl.delivery.mp.microsoft.com
+3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net
+au.download.windowsupdate.com
+ctldl.windowsupdate.com
+definitionupdates.microsoft.com
+fg.download.windowsupdate.com.c.footprint.net
+geo-prod.do.dsp.mp.microsoft.com
+geover-prod.do.dsp.mp.microsoft.com
+sls.update.microsoft.com
+# TBC 2019-11
+evoke-windowsservices-tas.msedge.net
+
+# Microsoft Store
+storeedgefd.dsx.mp.microsoft.com
+pti.store.microsoft.com
+displaycatalog.mp.microsoft.com
+purchase.mp.microsoft.com
+
+# Windows Defender
+wdcp.microsoft.com
+definitionupdates.microsoft.com
+
+# BitLocker
+g.live.com
+
+# Office
+officeclient.microsoft.com
+activation.sls.microsoft.com
+officecdn.microsoft.com
+officecdn.microsoft.com.edgesuite.net
+ocos-office365-s2s.msedge.net
+img-prod-cms-rt-microsoft-com.akamaized.net
+az725175.vo.msecnd.net
+
+# Outlook
+microsoftonline-p.com
+secure.aadcdn.microsoftonline-p.com
+login.microsoftonline.com
+attachments.office.net
+logincdn.msauth.net
+swc.cdn.skype.com
+
+# Outlook Mobile
+mobile.pipe.aria.microsoft.com
+outlookmobile-office365-tas.msedge.net
+# Testing 2019-06-13
+app.adjust.com
+
+
+# Outlook Online
+browser.pipe.aria.microsoft.com
+
+# Onedrive
+onedrive.live.com
+g.live.com
+oneclient.sfx.ms
+
+# Add User
+dmd.metaservices.microsoft.com
+
+# Downloads
+download.microsoft.com
+
+# Time / NTP
+time.windows.com
+
+# SmartScreen
+client.wns.windows.com
+checkappexec.microsoft.com
+
+# Misc
+answers.microsoft.com
+login.windows.net
+
+# Store
+store-images.s-microsoft.com
+
+# MSN
+msn.com
+www.msn.com
+
+# Unknown
+oneclient.sfx.ms
+dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+
+
+# =========================================================
+# APPLE
+# =========================================================
+
+store.apple.com
+icloud.com
+www.icloud.com
+ocsp.apple.com
+valid.apple.com
+mesu.apple.com
+
+# Connectivity / Captive Portal
+captive.apple.com
+gsp1.apple.com
+www.apple.com
+www.appleiphonecell.com
+
+
+# =========================================================
+# EMAIL
+# =========================================================
+
+# Outlook
+outlook.office.com
+edge.outlook.office365.com
+lb.geo.office365.com
+outlook.office365.com.g.office365.com
+outlook-emeacenter.office365.com
+outlook-emeacenter2.office365.com
+nexus.officeapps.live.com
+outlook.live.com
+outlook.office365.com
+client-office365-tas.msedge.net
+secure.aadcdn.microsoftonline-p.com
+r4.res.office365.com
+ow2.res.office365.com
+vbanners-my.sharepoint.com
+
+# Outlook (Venture)
+autodiscover.venturebanners.co.uk
+
+# Hotmail
+login.live.com
+msagfx.live.com
+
+# Fastmail
+fastmail.com
+www.fastmail.com
+
+# Mailgun
+email.mg.venturebanners.co.uk
+mg.venturebanners.co.uk
+mailgun.com
+api.mailgun.net
+smtp.mailgun.org
+eu.mailgun.org
+mailgun.org
+help.mailgun.com
+optanon.blob.core.windows.net
+presence.api.drift.com
+customer.api.drift.com
+js.hs-scripts.com
+
+# Mailgun email previews
+dev.visualwebsiteoptimizer.com
+v2.zopim.com
+
+# Yahoo
+mail.yahoo.com
+login.yahoo.com
+consent.cmp.oath.com
+s.yimg.com
+csp.yahoo.com
+yahoo.com
+www.yahoo.com
+ecp.yusercontent.com
+
+# Campaign Monitor
+i1.createsend1.com
+i2.createsend1.com
+i3.createsend1.com
+i4.createsend1.com
+i5.createsend1.com
+i6.createsend1.com
+i7.createsend1.com
+i8.createsend1.com
+i9.createsend1.com
+i10.createsend1.com
+img.createsend1.com
+campaignmonitor.com
+www.campaignmonitor.com
+js.createsend1.com
+css.createsend1.com
+tag.demandbase.com
+api.company-target.com
+browser.sentry-cdn.com
+help.campaignmonitor.com
+i1.campaignmonitor.com
+i2.campaignmonitor.com
+i3.campaignmonitor.com
+css.createsend1.com
+
+
+
+
+
+# MailChimp
+mailchi.mp
+www.mailchi.mp
+mailchimp.com
+www.mailchimp.com
+list-manage.com
+yourprintpartner.us4.list-manage.com
+gallery.mailchimp.com
+cdn-images.mailchimp.com
+us18.campaign-archive.com
+us18.admin.mailchimp.com
+login.mailchimp.com
+
+# Mandrill
+mandrillapp.com
+
+# Return Path / Sender Score
+senderscore.org
+www.senderscore.org
+returnpath.com
+www.returnpath.com
+returnpath.net
+www.returnpath.net
+blog.returnpath.com
+email.returnpath.com
+static.returnpath.net
+
+# Misc Email Tracking Links
+zc1.campaign-view.eu
+
+
+
+# =========================================================
+# SMS
+# =========================================================
+
+# Twilio
+s815114181.t.en25.com
+
+
+# =========================================================
+# PAYMENT
+# =========================================================
+
+# Barclays
+payments.epdq.co.uk
+barclays.mobi
+www.barclays.mobi
+col.eum-appdynamics.com
+barclaysuk.sc.omtrdc.net
+barclaysbankplc.tt.omtrdc.net
+bmb.secure.barclays.com
+
+# Stripe
+api.stripe.com
+js.stripe.com
+stripe.com
+q.stripe.com
+m.stripe.com
+t.stripe.com
+checkout.stripe.com
+dashboard.stripe.com
+cdn.segment.io
+static.olark.com
+m.stripe.network
+stripensrq.global.ssl.fastly.net
+b.stripecdn.com
+stripecdn.map.fastly.com
+
+# Braintree
+js.braintreegateway.com
+
+# Credit Focus
+use.typekit.net
+ajax.aspnetcdn.com
+az416426.vo.msecnd.net
+
+# PayPal
+paypal.com
+www.paypal.com
+paypalobjects.com
+www.paypalobjects.com
+c.paypal.com
+
+# Incab
+secure.incab.se
+
+
+# =========================================================
+# REGISTRAR
+# =========================================================
+
+# 123-Reg
+123-reg.co.uk
+www.123-reg.co.uk
+hps.datacash.com
+
+# Uniregistry
+uniregistry.com
+www.uniregistry.com
+uniregistry.help
+www.uniregistry.help
+static.uniregistry.com
+
+
+# =========================================================
+# SSL
+# =========================================================
+
+# DigiCert
+munchkin.marketo.net
+static.hotjar.com
+script.hotjar.com
+825-wpk-761.mktoresp.com
+
+
+# =========================================================
+# ISP
+# =========================================================
+
+# BT
+bt.com
+www.bt.com
+home.bt.com
+
+# BT Business
+d3c3cq33003psk.cloudfront.net
+btbusiness.d1.sc.omtrdc.net
+btbusiness.tt.omtrdc.net
+
+
+# PlusNet
+plus.net
+www.plus.net
+
+
+# =========================================================
+# VIDEO
+# =========================================================
+
+# YouTube
+youtu.be
+youtube.com
+www.youtube.com
+youtube-nocookie.com
+www.youtube-nocookie.com
+i.ytimg.com
+redirector.googlevideo.com
+
+# Wistia
+distillery.wistia.com
+embed.wistia.com
+embed-ssl.wistia.com
+pipedream.wistia.com
+fast.wistia.com
+wistia.com
+wistia.net
+fast.wistia.net
+secure.wistia.com
+
+
+# VLC
+videolan.org
+www.videolan.org
+
+# Giphy
+giphy.com
+www.giphy.com
+
+# Emby
+emby.media
+app.emby.media
+tv.emby.media
+
+# Supernews
+news.supernews.com
+supernews.com
+www.supernews.com
+
+
+# =========================================================
+# SEARCH ENGINE
+# =========================================================
+
+bing.com
+www.bing.com
+
+
+# =========================================================
+# IOT
+# =========================================================
+
+# Ring Doorbell
+api.ring.com
+es.ring.com
+fw.ring.com
+ps.ring.com
+vod.ring.com
+wu.ring.com
+prd-ring-web-us.prd.rings.solutions
+
+# Ring Chime
+ch.ring.com
+fw-ch.ring.com
+
+# Canary
+api.canaryis.com
+snowplow.canary.is
+
+# Nest
+updates.nest.com
+frontdoor.nest.com
+time.nest.com
+
+# Nest Protect
+home.nest.com
+log-rts28-iad01.devices.nest.com
+czfe25.front01.iad01.production.nest.com
+czfe44.front01.iad01.production.nest.com
+czfe17.front01.iad01.production.nest.com
+czfe97.front01.iad01.production.nest.com
+frontdoor.nest.com
+weave-logsink.nest.com
+
+# Nest Thermostat
+czfe120-front01-iad01.transport.home.nest.com
+czfe95-front01-iad01.transport.home.nest.com
+czfe12-front01-iad01.transport.home.nest.com
+czfe125-front01-iad01.transport.home.nest.com
+logsink.devices.nest.com
+weather.nest.com
+ipv6.connman.net
+ipv4.connman.net
+
+
+# =========================================================
+# DEVICES
+# =========================================================
+
+# Remarkable
+remarkable.engineering
+cloud.remarkable.engineering
+get-updates.cloud.remarkable.engineering
+remarkable.com
+my.remarkable.com
+service-manager-production-dot-remarkable-production.appspot.com
+nsc5-notifications-production.cloud.remarkable.engineering
+document-storage-production-dot-remarkable-production.appspot.com
+omaha-remarkable-ie.s3.eu-west-1.amazonaws.com
+p051-notifications-production.cloud.remarkable.engineering
+webapp-production-dot-remarkable-production.appspot.com
+
+
+# =========================================================
+# ADOBE
+# =========================================================
+
+# Adobe
+sales.liveperson.net
+adobeid-na1.services.adobe.com
+
+# Adobe CS6 Updates
+swupmf.adobe.com
+swupdl.adobe.com
+
+# Adobe CS6 Licensing
+lm.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+genuine.adobe.com
+
+# Adobe CC
+activate.adobe.com
+ans.oobesaas.adobe.com
+ccmdls.adobe.com:443
+ims-na1.adobelogin.com
+na1r.services.adobe.com
+prod-rel-ffc-ccm.oobesaas.adobe.com
+lm.licenses.adobe.com
+ccmdl.adobe.com
+adobeid.services.adobe.com
+uds.licenses.adobe.com
+dc-api.adobe.io
+acp-ss-ew1.adobe.io
+ims-prod06.adobelogin.com
+lcs-cops.adobe.io
+cc-api-data.adobe.io
+hbrt.adobe.com
+hbrcv.adobe.com
+
+# Adobe Website
+assets.adobedtm.com
+geo2.adobe.com
+account.adobe.com
+
+# Acrobat Reader Installing
+dlmping2.adobe.com
+ardownload2.adobe.com
+
+# Typekit
+typekit.com
+www.typekit.com
+
+
+
+# =========================================================
+# BANK
+# =========================================================
+
+# Barclays Bank
+ask.barclays.co.uk
+bank.barclays.co.uk
+bank.glbaa.barclays.com
+barclays-ask.metafaq.com
+barclays.co.uk.d3.sc.omtrdc.net
+barclays.co.uk.ssl.d3.sc.omtrdc.net
+barclaysbankplc.tt.omtrdc.net
+bc.barclays.co.uk
+bcol.barclaycard.co.uk
+help.gslib.barcap.com
+jobs.barclays.co.uk
+labs.uk.barclays
+metrics.barclays.co.uk
+smetrics.barclays.co.uk
+status.barclays
+www.barclays.co.uk
+www.barclays.mobi
+www.barclaysatpworldtourfinals.com
+www.barclayslifeskills.com
+www.help.barclays.co.uk
+www.home.barclays
+www2.gslib.barcap.com
+
+# NatWest
+natwest.com
+www.natwest.com
+nwolb.com
+www.nwolb.com
+
+# Lloyds
+lloydsbank.com
+www.lloydsbank.com
+online.lloydsbank.co.uk
+secure.lloydsbank.co.uk
+cem.lloydsbank.com
+s16370.cdn.lloydsbanking.com
+s14425.cdn.lloydsbanking.com
+
+# N26
+tech26.de
+api.tech26.de
+
+# Revolut
+revolut.com
+www.revolut.com
+revolut.codes
+www.revolut.codes
+
+# Online Payments - Visa, Mastercard etc.
+secure4.arcot.com
+secure7.arcot.com
+
+# Nationwide
+bankingapp.nationwide.co.uk
+nationwide.sc.omtrdc.net
+nationwide.co.uk
+www.nationwide.co.uk
+
+# Mastercard
+cardholder.mastercardworldwide.com
+
+
+# =========================================================
+# FINANCIAL
+# =========================================================
+# European Commission/VAT Numbers
+ec.europa.eu
+
+
+
+# =========================================================
+# BUSINESS SECURITY
+# =========================================================
+
+# Security Metrics
+securitymetrics.com
+www.securitymetrics.com
+
+
+
+# =========================================================
+# RADIO
+# =========================================================
+
+absoluteradio.co.uk
+www.absoluteradio.co.uk
+stream.timlradio.co.uk
+opml.radiotime.com
+player.absoluteradio.co.uk
+ais.absoluteradio.co.uk
+cdn.absoluteradio.co.uk
+
+
+
+
+
+# =========================================================
+# LINUX
+# =========================================================
+
+# Ubuntu
+archive.ubuntu.com
+archive.canonical.com
+security.ubuntu.com
+ntp.ubuntu.com
+gb.archive.ubuntu.com
+ppa.launchpad.net
+connectivity-check.ubuntu.com
+daisy.ubuntu.com
+changelogs.ubuntu.com
+livepatch.canonical.com
+nmcheck.gnome.org
+
+# Ubuntu websites
+insights.ubuntu.com
+bugs.launchpad.net
+
+# Linux Mint
+packages.linuxmint.com
+extra.linuxmint.com
+linuxmintpkg.efemef.ovh
+
+# Chrome on Linux
+dl.google.com
+dl.l.google.com
+
+# Debian/ UniFi
+security.debian.org
+httpredir.debian.org
+cdn-fastly.deb.debian.org
+
+# Raspbian
+mirrordirector.raspbian.org
+archive.raspberrypi.org
+
+# Kali
+kali.download
+www.kali.download
+
+# Community
+lists.gnu.org
+
+
+# =========================================================
+# NTP
+# =========================================================
+
+0.pool.ntp.org
+
+
+# =========================================================
+# CERTIFICATES
+# =========================================================
+
+# Let's Encrypt
+ocsp.int-x3.letsencrypt.org
+acme-v02.api.letsencrypt.org
+
+# Microsoft
+ocsp.msocsp.com
+mscrl.microsoft.com
+crl.www.ms.akadns.net
+crl.microsoft.com
+
+# Globalsign
+hostedocsp.globalsign.com
+crl.globalsign.net
+ocsp.globalsign.com
+ocsp2.globalsign.com
+
+# Digicert
+digicert.com
+www.digicert.com
+ocsp.digicert.com
+crl3.digicert.com
+crl4.digicert.com
+
+# GeoTrust
+geotrust.com
+www.geotrust.com
+
+# Symantec
+symantec.com
+www.symantec.com
+s1.symcb.com
+s2.symcb.com
+sr.symcb.com
+vs.symantec.com
+nsg.symantec.com
+oms.symantec.com
+gm.symcb.com
+gm.symcd.com
+tf.symcd.com
+sr.symcd.com
+g1.symcb.com
+g2.symcb.com
+gp.symcb.com
+tn.symcb.com
+sv.symcd.com
+gt.symcd.com
+ss.symcd.com
+sw.symcd.com
+s.symcd.com
+sf.symcd.com
+g.symcd.com
+
+# Comodo
+ocsp.comodoca.com
+
+# Sectigo
+ocsp.sectigo.com
+
+# Verisign
+ocsp.verisign.com
+
+# Misc
+ocsp.omniroot.com
+cdp1.public-trust.com
+certrevoc.vo.msecnd.net
+ocsp.usertrust.com
+crl.usertrust.com
+
+# Let's Encrypt
+letsencrypt.org
+
+# Google
+crl.pki.goog
+ocsp.pki.goog
+
+
+# =========================================================
+# GPU & GRAPHICS
+# =========================================================
+
+# AMD
+support.amd.com
+dsa-support.amd.com.edgekey.net
+
+# Nvidia
+www.nvidia.com
+stun.gamestream.nvidia.com
+nv.stun.gamestream.nvidia.com
+s1.stun.gamestream.nvidia.com
+gfe.nvidia.com
+download-cdn.gfe.nvidia.com
+services.gfe.nvidia.com
+services-cdn.gfe.nvidia.com
+international.download.nvidia.com
+images.nvidia.com
+blogs.nvidia.com
+forums.nvidia.com
+gfwsl.geforce.com
+www.geforce.co.uk
+www.geforce.cn
+uk.geforce.com
+www.geforce.com
+www.geforce.com.tw
+events.gfe.nvidia.com
+accounts.nvgs.nvidia.com
+rds-assets.nvidia.com
+app.nvidia.com
+
+
+
+# =========================================================
+# COMMS
+# =========================================================
+
+# Discord
+discordapp.com
+www.discordapp.com
+cdn.discordapp.com
+eu-west51.discord.media
+eu-west791.discord.media
+eu-central871.discord.media
+eu-west595.discord.media
+discord.gg
+www.discord.gg
+
+# Disqus
+disquscdn.com
+c.disquscdn.com
+disqus.com
+a.disquscdn.com
+
+
+
+# =========================================================
+# COURIER & POST
+# =========================================================
+
+# TNT
+ftp.tnt.co.uk
+direct.tnt.co.uk
+tnt.com
+www.tnt.com
+d.tnt.com
+swd.gslb.fedex.com
+d.tnt.com
+gdl-specs.tnt-digital.com
+prd.tnt-digital.com
+cross-track-service.tnt-digital.com
+tnt-digital.com
+express.tnt.com
+
+# DX Freight
+dxfreight.co.uk
+www.dxfreight.co.uk
+dx-track.com
+www.dx-track.com
+dm6.dxfreight.co.uk
+
+# Royal Mail
+www.postoffice.co.uk
+www.royalmail.akadns.net
+api.postcodefinder.royalmail.com
+track2.royalmail.com
+
+# Pitney Bowes
+pitneybowes.us
+www.pitneybowes.us
+pbcdn.pbui.us
+
+# APC Overnight
+apc-overnight.com
+www.apc-overnight.com
+
+# DHL
+webtrack.dhlglobalmail.com
+
+
+# =========================================================
+# SOFTWARE
+# =========================================================
+
+# Dropbox
+dropbox.com
+www.dropbox.com
+dl.dropbox.com
+client-cf.dropbox.com
+notify2.dropbox.com
+2.notify.dropbox.com
+dl-debug.dropbox.com
+dl-debug.x.dropbox.com
+d.dropbox.com
+d.v.dropbox.com
+dl-web.dropbox.com
+cfl.dropboxstatic.com
+bolt.dropbox.com
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+api.dropboxapi.com
+connectivitycheck.getdropbox.com
+block-edge-1.dropbox.com
+block-edge-2.dropbox.com
+block-edge-anycast.dropbox.com
+photos-thumb.dropbox.com
+client-web.dropbox.com
+client.dropbox.com
+netmon-control.dropbox.com
+edge-misc.dropbox-dns.com
+beacon.dropbox.com
+dropbox.tech
+www.dropbox.tech
+
+# Sublime Text
+www.sublimetext.com
+sublimetext.com
+packagecontrol.io
+www.sublimehq.com
+license.sublimehq.com
+
+# GitHub
+raw.githubusercontent.com
+assets-cdn.github.com
+api.github.com
+github.com
+www.github.com
+avatars1.githubusercontent.com
+avatars2.githubusercontent.com
+avatars3.githubusercontent.com
+camo.githubusercontent.com
+github.blog
+gist.github.com
+git.io
+www.git.io
+cdn.rawgit.com
+cloud.githubusercontent.com
+
+# Bitbucket
+bam.nr-data.net
+
+# Bitbucket Community
+tnckb94959.i.lithium.com
+
+
+# Syncthing
+upgrades.syncthing.net
+relays.syncthing.net
+web.syncthing.net
+data.syncthing.net
+discovery-v6-1.syncthing.net
+discovery-v6-2.syncthing.net
+discovery-v6-3.syncthing.net
+discovery-v4-1.syncthing.net
+discovery-v4-2.syncthing.net
+discovery-v4-3.syncthing.net
+
+# Sage
+update.sage.com
+
+# Adobe
+fpdownload.macromedia.com
+
+# Ubiquiti / UniFi
+dl.ubnt.com
+www.ubnt.com
+device.svc.ubnt.com
+device-adopt.svc.ubnt.com
+cdn-fastly.deb.debian.org
+rollout.ubnt.com
+elite-billing.ubnt.com
+prd-www-cdn.ubnt.com
+fw-download.ubnt.com
+dmuml5c39zuoo.cloudfront.net
+
+# DisplayFusion
+www.binaryfortress.com
+binaryfortressdownloads.com
+
+# Firefox
+www.mozilla.org
+shavar.prod.mozaws.net
+shavar.services.mozilla.com
+www.mozilla.org.cdn.cloudflare.net
+detectportal.firefox.com
+services.addons.mozilla.org
+firefox.settings.services.mozilla.com
+location.services.mozilla.com
+blocklists.settings.services.mozilla.com
+support.cdn.mozilla.net
+trackthis.link
+www.trackthis.link
+
+# Opera
+autoupdate.geo.opera.com
+dl.opera.com
+download1.operacdn.com
+www-static-blogs.operacdn.com
+
+# Squeezebox
+jive.squeezenetwork.com
+repos.squeezecommunity.org
+www.mysqueezebox.com
+www.logitech.com
+
+# Pi-hole
+pi-hole.net
+changes.pi-hole.net
+
+# Canary Tokens
+canarytokens.org
+
+# Greenshot
+getgreenshot.org
+www.getgreenshot.org
+
+# Dexpot
+dexpot.de
+www.dexpot.de
+
+
+# /e/
+e.foundation
+gitlab.e.foundation
+
+# Notion
+notion.so
+www.notion.so
+
+# SQRL
+sqrl.grc.com
+sqrl.ver.grc.com
+
+# Exact Audio Copy
+exactaudiocopy.de
+www.exactaudiocopy.de
+
+# TP-Link / Kasa
+n-deventry.tplinkcloud.com
+n-devs.tplinkcloud.com
+euw1-api.tplinkra.com
+use1-api.tplinkra.com
+
+
+# =========================================================
+# BROWSER EXTENSIONS
+# =========================================================
+
+# Lastpass
+pollserver.lastpass.com
+lp-push-server-748.lastpass.com
+lp-push-server-877.lastpass.com
+lastpass.com
+www.lastpass.com
+loglogin.lastpass.com
+lastpass.com.edgekey.net
+
+# Xmarks
+login.xmarks.com
+sync.xmarks.com
+
+# Adblocks and Lists
+easylist.to
+raw.githubusercontent.com
+www.malwaredomainlist.com
+mirror1.malwaredomains.com
+
+# Pushbullet
+zebra.pushbullet.com
+
+# Stylish / Stylus
+userstyles.org
+www.userstyles.org
+
+
+# =========================================================
+# MOBILE APPS
+# =========================================================
+
+# Pushover
+api.pushover.net
+pushover.net
+www.pushover.net
+
+# Pebble
+timeline-sync.getpebble.com
+
+# Rebble
+rebble.io
+www.rebble.io
+
+# Timely
+timely-sync.appspot.com
+
+# Pocket Casts
+podcasts.shiftyjelly.com.au
+social.pocketcasts.com
+sync.pocketcasts.com
+static.pocketcasts.com
+refresh.pocketcasts.com
+cache.pocketcasts.com
+cdn.polyfill.io
+cache.pocketcasts.com
+
+sciencevs.show
+www.sciencevs.show
+
+# Bragi
+bragi.zendesk.com
+connect.bragi.net
+
+# Pushbullet
+stream.pushbullet.com
+api.pushbullet.com
+
+
+
+
+
+
+
+traffic.libsyn.com
+tracking.feedpress.it
+
+
+
+# =========================================================
+# SOCIAL
+# =========================================================
+
+# Facebook
+facebook.com
+www.facebook.com
+en-gb.facebook.com
+connect.facebook.com
+upload.facebook.com
+error.facebook.com
+graph.facebook.com
+connect.facebook.net
+b-api.facebook.com
+newsroom.fb.com
+bigzipfiles.facebook.com
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+m.facebook.com
+edge-mqtt.facebook.com
+mqtt-mini.facebook.com
+api.facebook.com
+static.ak.fbcdn.net
+scontent-lht6-1.xx.fbcdn.net
+staticxx.facebook.com
+edge-chat.facebook.com
+l.facebook.com
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+apps.facebook.com
+
+# Facebook Messenger
+messenger.com
+www.messenger.com
+
+# Facebook Design
+facebook.design
+www.facebook.design
+
+# Images in Facebook stream
+scontent-lhr3-1.xx.fbcdn.net
+scontent-amt2-1.xx.fbcdn.net
+
+# Facebook Messenger
+rupload.facebook.com
+
+
+# Instagram
+instagram.com
+www.instagram.com
+i.instagram.com
+scontent-ams3-1.cdninstagram.com
+scontent-amt2-1.cdninstagram.com
+scontent-arn2-1.cdninstagram.com
+scontent-atl3-1.cdninstagram.com
+scontent-dft4-1.cdninstagram.com
+scontent-dft4-2.cdninstagram.com
+scontent-fra3-1.cdninstagram.com
+scontent-frt3-1.cdninstagram.com
+scontent-kul1-1.cdninstagram.com
+scontent-mia1-1.cdninstagram.com
+scontent-ort2-1.cdninstagram.com
+scontent-ort2-2.cdninstagram.com
+scontent-sea1-1.cdninstagram.com
+scontent-sit4-1.cdninstagram.com
+scontent-sjc2-1.cdninstagram.com
+scontent-syd2-1.cdninstagram.com
+scontent-lhr3-1.cdninstagram.com
+scontent.cdninstagram.com
+help.instagram.com
+scontent-lht6-1.cdninstagram.com
+scontent-lhr7-1.cdninstagram.com
+scontent-lhr8-1.cdninstagram.com
+scontent-cdt1-1.cdninstagram.com
+scontent-cdg2-1.cdninstagram.com
+
+
+# Twitter
+twitter.com
+www.twitter.com
+mobile.twitter.com
+syndication.twitter.com
+platform.twitter.com
+m.twitter.com
+access.twitter.com
+static.twitter.com
+support.twitter.com
+upload.twitter.com
+video.twitter.com
+abs.twimg.com
+pbs.twimg.com
+api.twitter.com
+ton.twimg.com
+blog.twitter.com
+about.twitter.com
+developer.twitter.com
+cdn.syndication.twimg.com
+prod-fastly-us-west-1.video.pscp.tv
+
+# LinkedIn
+linkedin.com
+www.linkedin.com
+media.licdn.com
+static.licdn.com
+uk.linkedin.com
+e.linkedin.com
+brand.linkedin.com
+
+# Discord
+gateway.discord.gg
+
+# Mastodon
+mastodon.social
+www.mastodon.social
+
+
+# Pinterest
+s.pinimg.com
+i.pinimg.com
+pinterest.com
+www.pinterest.com
+api.pinterest.com
+engineering.pinterest.com
+developers.pinterest.com
+blog.pinterest.com
+id.pinterest.com
+uk.pinterest.com
+post.pinterest.com
+accounts.pinterest.com
+
+
+
+# Tumblr
+tumblr.com
+www.tumblr.com
+assets.tumblr.com
+
+# Google Plus
+plus.google.com
+
+
+
+# =========================================================
+# NEWS
+# =========================================================
+
+bbc.co.uk
+www.bbc.co.uk
+bbc.com
+www.bbc.com
+emp.bbc.co.uk
+
+express.co.uk
+www.express.co.uk
+
+nytimes.com
+www.nytimes.com
+
+theguardian.com
+www.theguardian.com
+mp.theguardian.com
+i.guim.co.uk
+uploads.guim.co.uk
+
+wikileaks.org
+www.wikileaks.org
+
+wsj.com
+www.wsj.com
+
+thedailybeast.com
+www.thedailybeast.com
+
+reuters.com
+www.reuters.com
+
+cnbc.com
+www.cnbc.com
+
+cnn.com
+www.cnn.com
+
+cbc.ca
+www.cbc.ca
+i.cbc.ca
+
+nypost.com
+www.nypost.com
+
+
+
+# =========================================================
+# COMIC
+# =========================================================
+
+xkcd.com
+www.xkcd.com
+
+oglaf.com
+www.oglaf.com
+
+
+# =========================================================
+# GAMING
+# =========================================================
+
+# Steam
+clientconfig.akamai.steamstatic.com
+api.steampowered.com
+client-download.steampowered.com
+store.steampowered.com
+steampowered.com
+gds1.steampowered.com
+gds2.steampowered.com
+gds3.steampowered.com
+gds4.steampowered.com
+
+# Elite Dangerous / Frontier
+api.orerve.net
+turn.orerve.net
+api.zaonce.com
+launcher-4586754895.elitedangerous.com
+
+# Ubisoft Uplay
+static3.cdn.ubi.com
+public-rest.a.upc.ubisoft.com
+ubistatic3-a.akamaihd.net
+public-ws-ubiservices.ubi.com
+public-ubiservices.ubi.com
+ubisoft-avatars.akamaized.net
+news-page-themes-api.a.upc.ubisoft.com
+ubisoft-orbit-savegames.s3.amazonaws.com
+onlineconfigservice.ubi.com
+
+# Xbox
+#Test 2017-12-01
+clientconfig.passport.net
+
+# Jackbox
+jackbox.tv
+
+# Razer
+razerzone.com
+www.razerzone.com
+maxineapi.razersynapse.com
+
+# Bethesda
+bethesda.net
+www.bethesda.net
+
+# Twitch
+twitch.tv
+
+# Rovio
+cloud.rovio.com
+
+# WoW
+telemetry-in.battle.net
+level3.blizzard.com
+eu.cdn.blizzard.com
+eu.battle.net
+nydus.battle.net
+bneteu-a.akamaihd.net
+blzprofile.akamaized.net
+api-cache.blizzcon.com
+blzddist1-a.akamaihd.net
+eu.depot.battle.net
+status.wow-europe.com
+
+# GOG
+gog.com
+www.gog.com
+wiki.gog.com
+images.gog.com
+notifications.gog.com
+static-login.gog.com
+www4-static4.gog.com
+users.gog.com
+embed.gog.com
+www4-static2.gog.com
+ns3.gog.com
+notifications-pusher-server-5.gog.com
+api.gog.com
+webmail.gog.com
+gwent-quests.gog.com
+connect.gog.com
+ns5.gog.com
+ns4.gog.com
+mail.gog.com
+seawolf-shop.gog.com
+seawolf-deck.gog.com
+notifications-pusher-server-4.gog.com
+cm.gog.com
+ftp.gog.com
+payments.gog.com
+ftp3.gog.com
+cloudstorage.gog.com
+images-1.gog.com
+items.gog.com
+galaxy-log.gog.com
+gameplay.gog.com
+reviews.gog.com
+presence.gog.com
+chat.gog.com
+cdn-hw.gog.com
+images-4.gog.com
+ftp2.gog.com
+ns1.gog.com
+menu-static.gog.com
+a39a3ee5e6b4b0d3256.gog.com
+seawolf-inventory.gog.com
+seawolf-config.gog.com
+cdn.gog.com
+cdn-api.gog.com
+cfg-aws.gog.com
+notifications-pusher-server-7.gog.com
+static.gog.com
+support.gog.com
+login.gog.com
+work.gog.com
+productcard-static.gog.com
+gitlab.gog.com
+menu.gog.com
+seawolf-games-log.gog.com
+notifications-pusher-server-2.gog.com
+files.gog.com
+seawolf-rankings.gog.com
+auth.gog.com
+ns2.gog.com
+email.gog.com
+nat-detection.gog.com
+gwent-gameplay-proxy-atm.gog.com
+notifications-pusher-server-9.gog.com
+www4-static1.gog.com
+secure.gog.com
+cfg.gog.com
+images-static-aws.gog.com
+images-3.gog.com
+www4-static3.gog.com
+ns6.gog.com
+notifications-pusher-server-3.gog.com
+seawolf-rewards.gog.com
+www.gog.com
+content-system.gog.com
+partners.gog.com
+notifications-pusher-server-8.gog.com
+notifications-pusher.gog.com
+seawolf-matchmaking.gog.com
+seawolf-profile.gog.com
+mages-2.gog.com
+galaxy-client-reports.gog.com
+remote-config.gog.com
+notifications-pusher-server-10.gog.com
+beta.gog.com
+www4-static101.gog.com
+notifications-pusher-aws.gog.com
+productcard.gog-statics.com
+menu-static.gog-statics.com
+
+# Rocket League
+psyonix-rl.appspot.com
+rl-cdn.psyonix.com
+
+# Sniper Elite 4
+srv01.codefusion.technology
+srv02.codefusion.technology
+srv03.codefusion.technology
+
+
+
+# =========================================================
+# HARDWARE
+# =========================================================
+
+# Netgate/pfSense
+files00.netgate.com
+files01.netgate.com
+firmware.netgate.com
+files.pfsense.org
+ews.netgate.com
+0.pfsense.pool.ntp.org
+_https._tcp.firmware.netgate.com
+_https._tcp.auth.netgate.com
+_https._tcp.repo.netgate.com
+auth00.netgate.com
+repo00.netgate.com
+auth01.netgate.com
+acb.netgate.com
+
+# Netgear
+netgear.opendns.com
+downloadcenter.netgear.com
+support.netgear.com
+www.netgear.com
+netgear.com
+updates1.netgear.com
+time-h.netgear.com
+
+# Synology
+pkgautoupdate.synology.com
+payment.synology.com
+
+
+# =========================================================
+# MESSAGING
+# =========================================================
+
+# Signal
+signal.org
+www.signal.org
+updates2.signal.org
+textsecure-service-whispersystems.org
+giphy-proxy-production.whispersystems.org
+cdn.signal.org
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+d83eunklitikj.cloudfront.net
+souqcdn.com
+cms.souqcdn.com
+api.directory.signal.org
+contentproxy.signal.org
+turn1.whispersystems.org
+
+
+# WhatsApp
+whatsapp.com
+www.whatsapp.com
+e1.whatsapp.net
+e2.whatsapp.net
+e3.whatsapp.net
+e4.whatsapp.net
+e5.whatsapp.net
+e6.whatsapp.net
+e7.whatsapp.net
+e8.whatsapp.net
+e9.whatsapp.net
+e10.whatsapp.net
+e11.whatsapp.net
+e12.whatsapp.net
+e13.whatsapp.net
+e14.whatsapp.net
+e15.whatsapp.net
+e16.whatsapp.net
+mmg.whatsapp.net
+pps.whatsapp.net
+w1.web.whatsapp.com
+w2.web.whatsapp.com
+w3.web.whatsapp.com
+w4.web.whatsapp.com
+w5.web.whatsapp.com
+w6.web.whatsapp.com
+w7.web.whatsapp.com
+w8.web.whatsapp.com
+w9.web.whatsapp.com
+web.whatsapp.com
+media-ams3-1.cdn.whatsapp.net
+media-amt2-1.cdn.whatsapp.net
+media-arn2-1.cdn.whatsapp.net
+media-ber1-1.cdn.whatsapp.net
+media-bru2-1.cdn.whatsapp.net
+media-cdt1-1.cdn.whatsapp.net
+media-dfw5-1.cdn.whatsapp.net
+media-frt3-1.cdn.whatsapp.net
+media-frt3-2.cdn.whatsapp.net
+media-frx5-1.cdn.whatsapp.net
+media-iad3-1.cdn.whatsapp.net
+media-lax3-1.cdn.whatsapp.net
+media-lax3-2.cdn.whatsapp.net
+media-lga3-1.cdn.whatsapp.net
+media-lhr3-1.cdn.whatsapp.net
+media-lht6-1.cdn.whatsapp.net
+media-mad1-1.cdn.whatsapp.net
+media-mia3-1.cdn.whatsapp.net
+media-mxp1-1.cdn.whatsapp.net
+media-ort2-1.cdn.whatsapp.net
+media-ort2-2.cdn.whatsapp.net
+media-otp1-1.cdn.whatsapp.net
+media-sea1-1.cdn.whatsapp.net
+media-sin6-1.cdn.whatsapp.net
+media-sjc3-1.cdn.whatsapp.net
+media-sof1-1.cdn.whatsapp.net
+media-vie1-1.cdn.whatsapp.net
+media-waw1-1.cdn.whatsapp.net
+media-yyz1-1-cdn.whatsapp.net
+whatsapp-cdn-shv-01-atl1.fbcdn.net
+whatsapp-cdn-shv-01-dfw1.fbcdn.net
+whatsapp-cdn-shv-01-iad3.fbcdn.net
+whatsapp-cdn-shv-01-lax1.fbcdn.net
+whatsapp-cdn-shv-01-lax3.fbcdn.net
+whatsapp-cdn-shv-01-lga1.fbcdn.net
+whatsapp-cdn-shv-01-mia1.fbcdn.net
+whatsapp-cdn-shv-01-ord1.fbcdn.net
+whatsapp-cdn-shv-01-sea1.fbcdn.net
+whatsapp-cdn-shv-01-sjc2.fbcdn.net
+wa.me
+www.wa.me
+mmg-fna.whatsapp.net
+crashlogs.whatsapp.net
+
+# Jitsi
+jit.si
+meet.jit.si
+
+
+
+# =========================================================
+# PRINTERS
+# =========================================================
+
+# EFI
+info-new.efi.com
+ntp2.arnes.si
+ntp2.arnes.si.efi.internal
+
+# EFI Fiery Updates
+liveupdate.efi.com
+
+
+# =========================================================
+# SUPPLIERS
+# =========================================================
+
+www.cmyuk.com
+www.ultimadisplays.co.uk
+
+innotechdigital.com
+www.innotechdigital.com
+cta-redirect.hubspot.com
+no-cache.hubspot.com
+
+ctshirts.co.uk
+www.ctshirts.co.uk
+
+uk.farnell.com
+
+
+# =========================================================
+# COMPETITORS
+# =========================================================
+
+# tradedigitalprint.co.uk
+tdpc.fscdn.eu
+
+
+
+# =========================================================
+# SHOPPING
+# =========================================================
+
+# Ebay
+ebay.co.uk
+www.ebay.co.uk
+rover.ebay.com
+rover.ebay.co.uk
+d1af033869koo7.cloudfront.net
+ebay.com
+www.ebay.com
+
+# Amazon
+amazon.co.uk
+www.amazon.co.uk
+fls-eu.amazon.com
+ocsp.sca1b.amazontrust.com
+smile.amazon.co.uk
+amzn.to
+
+# Jack Jones
+jackjones.com
+www.jackjones.com
+
+# Next
+next.co.uk
+www.next.co.uk
+
+# Tesco
+tesco.com
+www.tesco.com
+
+# Ikea
+ikea.com
+www.ikea.com
+secure.ikea.com
+
+# Boots
+boots.com
+www.boots.com
+
+# Debenhams
+debenhams.com
+www.debenhams.com
+
+# Groupon
+groupon.co.uk
+www.groupon.co.uk
+
+# John Lewis
+johnlewis.com
+www.johnlewis.com
+account.johnlewis.com
+
+# LastMinute
+lastminute.com
+www.lastminute.com
+
+# Wishlistr
+wishlistr.com
+www.wishlistr.com
+wishlistr-item-img.s3.amazonaws.com
+
+# Appliance World Online
+applianceworldonline.com
+www.applianceworldonline.com
+
+# Screwfix
+screwfix.com
+www.screwfix.com
+cdn-eu-ec.yottaa.net
+res-x.com
+www.res-x.com
+
+# Halfords
+i1.adis.ws
+
+# Threadless
+threadless.com
+www.threadless.com
+
+# Redbubble
+redbubble.com
+www.redbubble.com
+
+# Spreadshirt
+spreadshirt.co.uk
+www.spreadshirt.co.uk
+
+
+# =========================================================
+# MUSIC
+# =========================================================
+
+bandcamp.com
+www.bandcamp.com
+
+beatport.com
+www.beatport.com
+
+# Spotify
+spotify.com
+www.spotify.com
+spclient.wg.spotify.com
+apresolve.spotify.com
+open.spotify.com
+embed.spotify.com
+audio-ak-spotify-com.akamaized.net
+audio-fa.scdn.co
+play.spotify.com
+q4mn.adj.st
+audio-fa.scdn.co
+i.scdn.co
+
+generative.fm
+www.generative.fm
+
+tycho.lnk.to
+
+7digital.com
+www.7digital.com
+7digital.co.uk
+www.7digital.co.uk
+media.geo.7digital.com
+
+
+
+
+
+# =========================================================
+# VIDEO
+# =========================================================
+
+netflix.com
+www.netflix.com
+
+# ITPro
+itpro.tv
+www.itpro.tv
+app.itpro.tv
+nexus-websocket-b.intercom.io
+
+# Sky
+api.condatis.sky
+bskyb.sc.omtrdc.net
+
+
+# =========================================================
+# WEB DEV
+# =========================================================
+
+# Placeholder images
+placehold.it
+www.placehold.it
+placeimg.com
+www.placeimg.com
+picsum.photos
+www.picsum.photos
+
+# Facebook for SSL Certificates monitoring
+developers.facebook.com
+
+# Report URI
+venturebanners.report-uri.io
+venturebanners.report-uri.com
+monitor.report-uri.io
+report-uri.io
+report-uri.com
+www.report-uri.com
+
+# OpenDNS
+opendns.com
+cachecheck.opendns.com
+
+# Codepen
+s.codepen.io
+codepen.io
+www.codepen.io
+
+# Noun Project
+d30y9cdsu7xlg0.cloudfront.net
+
+# WHOIS
+who.is
+www.who.is
+
+# Yoast
+yoast.com
+www.yoast.com
+
+# Web Development Reading List
+wdrl.info
+www.wdrl.info
+
+# Experts Exchange
+experts-exchange.com
+www.experts-exchange.com
+
+# Codecademy
+codecademy.com
+www.codecademy.com
+
+# Schema
+schema.org
+www.schema.org
+
+# PostCSS
+postcss.parts
+www.postcss.parts
+
+# Crt.sh
+crt.sh
+
+# A List Apart
+alistapart.com
+www.alistapart.com
+
+# Node & NPM
+npmjs.org
+www.npmjs.org
+
+# Pingdom
+pingdom.com
+www.pingdom.com
+my.solarwinds.cloud
+
+# Misc
+bitsofco.de
+www.bitsofco.de
+iconsvg.xyz
+www.iconsvg.xyz
+instant.page
+www.instant.page
+
+# Scott Helme's HTTPS Crawler
+crawler.ninja
+www.crawler.ninja
+
+# Webauthn Guide
+webauthn.guide
+
+# JShell Fiddle
+fiddle.jshell.net
+
+andy-bell.design
+www.andy-bell.design
+
+html5.validator.nu
+momentjs.com
+www.momentjs.com
+uxdesign.cc
+www.uxdesign.cc
+
+# Status Pages
+sms.me
+www.sms.me
+
+cssgr.id
+www.cssgr.id
+
+blog.logrocket.com
+
+# Browsersync
+browsersync.io
+www.browsersync.io
+
+# CSS Refresh
+cssrefresh.frebsite.nl
+
+
+# =========================================================
+# CDN
+# =========================================================
+
+cdnjs.cloudflare.com
+cdn.optimizely.com
+cdn.jsdelivr.net
+ajax.googleapis.com
+cdn.embedly.com
+cdn.ravenjs.com
+
+# Engadget images
+o.aolcdn.com
+img.vidible.tv
+
+# Engadget RSS redirects
+guce.advertising.com
+
+# Amazon
+s3.eu-central-2.amazonaws.com
+s3.eu-east-1.amazonaws.com
+s3.eu-east-2.amazonaws.com
+
+s3-1.amazonaws.com
+s3-ap-northeast-1.amazonaws.com
+s3-ap-northeast-2.amazonaws.com
+s3-ap-northeast-3.amazonaws.com
+s3-ap-south-1.amazonaws.com
+s3-ap-southeast-1.amazonaws.com
+s3-ap-southeast-2.amazonaws.com
+s3-ca-central-1.amazonaws.com
+s3-eu-central-1.amazonaws.com
+s3-eu-west-1.amazonaws.com
+s3-eu-west-2.amazonaws.com
+s3-eu-west-3.amazonaws.com
+s3-external-1.amazonaws.com
+s3-sa-east-1.amazonaws.com
+s3-us-east-2.amazonaws.com
+s3-us-west-1.amazonaws.com
+s3-us-west-2.amazonaws.com
+s3.amazonaws.com
+s3.ap-northeast-1.amazonaws.com
+s3.ap-northeast-2.amazonaws.com
+s3.ap-northeast-3.amazonaws.com
+s3.ap-south-1.amazonaws.com
+s3.ap-southeast-1.amazonaws.com
+s3.ap-southeast-2.amazonaws.com
+s3.ca-central-1.amazonaws.com
+s3.dualstack.ap-northeast-1.amazonaws.com
+s3.dualstack.ap-northeast-2.amazonaws.com
+s3.dualstack.ap-northeast-3.amazonaws.com
+s3.dualstack.ap-south-1.amazonaws.com
+s3.dualstack.ap-southeast-1.amazonaws.com
+s3.dualstack.ap-southeast-2.amazonaws.com
+s3.dualstack.ca-central-1.amazonaws.com
+s3.dualstack.eu-central-1.amazonaws.com
+s3.dualstack.eu-west-1.amazonaws.com
+s3.dualstack.eu-west-2.amazonaws.com
+s3.dualstack.eu-west-3.amazonaws.com
+s3.dualstack.sa-east-1.amazonaws.com
+s3.dualstack.us-east-1.amazonaws.com
+s3.dualstack.us-east-2.amazonaws.com
+s3.dualstack.us-west-1.amazonaws.com
+s3.dualstack.us-west-2.amazonaws.com
+s3.eu-central-1.amazonaws.com
+s3.eu-west-1.amazonaws.com
+s3.eu-west-2.amazonaws.com
+s3.eu-west-3.amazonaws.com
+s3.sa-east-1.amazonaws.com
+s3.us-east-1.amazonaws.com
+s3.us-east-2.amazonaws.com
+s3.us-west-1.amazonaws.com
+s3.us-west-2.amazonaws.com
+
+# jQuery
+code.jquery.com
+jqueryui.com
+www.jqueryui.com
+api.jqueryui.com
+
+maxcdn.bootstrapcdn.com
+
+# Cloudinary
+cloudinary.com
+www.cloudinary.com
+
+
+# Builders
+wix.com
+www.wix.com
+frog.wix.com
+
+
+# =========================================================
+# REGISTRAR
+# =========================================================
+
+# Sedo
+sedo.com
+www.sedo.com
+
+# Uniregistry
+uniregistry.help
+
+
+# =========================================================
+# DNS
+# =========================================================
+
+# Cloudflare
+cloudflare.com
+www.cloudflare.com
+ajax.cloudflare.com
+cdn.heapanalytics.com
+js-agent.newrelic.com
+api.cloudflare.com
+dash.cloudflare.com
+time.cloudflare.com
+trace.onb.workers.dev
+notifications.onb.workers.dev
+workers.dev
+www.workers.dev
+sentry.io
+www.sentry.io
+assets.www.cloudflare.com
+ui.components.workers.dev
+cloudflare.tv
+www.cloudflare.tv
+live.cloudflare.tv
+one.one.one.one
+ipv6.teams.cloudflare.com
+
+# DNS
+edgesuite.net
+nsatc.net
+akadns.net
+globalredir.akadns.net
+edgekey.net
+akamai.net
+
+# APIs
+api.ipify.org
+
+# IP Addresses
+myip.ms
+
+dns.coffee
+www.dns.coffee
+
+
+# =========================================================
+# STAFF
+# =========================================================
+
+# SteveM
+joblo.com
+www.joblo.com
+essexlive.news
+www.essexlive.news
+
+# Essex Highways
+customer.cludo.com
+
+# Wayne
+unity3d.com
+
+# Sign and Digital sign up form
+fav-house.msgfocus.com
+
+# Wayne - People Per Hour
+peopleperhour.com
+www.peopleperhour.com
+dw3i9sxi97owk.cloudfront.net
+
+# Wayne - Yew Tree Inn
+yewtreeinnmanuden.co.uk
+www.yewtreeinnmanuden.co.uk
+
+# Max
+eurocarparts.com
+www.eurocarparts.com
+bmwfans.info
+www.bmwfans.info
+thorlabs.de
+www.thorlabs.de
+
+# Scott
+boattrader.com
+www.boattrader.com
+rightmove.co.uk
+www.rightmove.co.uk
+zillow.com
+www.zillow.com
+nationallottery.co.uk
+www.nationallottery.co.uk
+ford.co.uk
+www.ford.co.uk
+national-lottery.co.uk
+www.national-lottery.co.uk
+
+# Scott - LinkedIn user
+triumfo.us
+www.triumfo.us
+triumfo.de
+www.triumfo.de
+triumfo.in
+www.triumfo.in
+
+# Scott Webinar 2019-05-22
+vjs.zencdn.net
+
+# Steve DB
+ctm.aggregator.ris.c2ms.tech
+pulsar.ebay.co.uk
+totalparts.nl
+www.totalparts.nl
+orangeparts.nl
+www.orangeparts.nl
+picclick.it
+www.picclick.it
+login.pru.co.uk
+
+# Jordan
+briefbox.me
+www.briefbox.me
+assets.briefbox.me
+media.briefbox.me
+
+# Gav C
+trello.com
+www.trello.com
+
+
+# =========================================================
+# BLOGS
+# =========================================================
+
+# Feedly
+feedly.com
+www.feedly.com
+djtflbt20bdde.cloudfront.net
+s3.feedly.com
+visuals.feedly.com
+img.feedly.com
+
+# Reddit
+reddit.com
+www.reddit.com
+redditstatic.com
+www.redditstatic.com
+external-preview.redd.it
+a.thumbs.redditmedia.com
+b.thumbs.redditmedia.com
+styles.redditmedia.com
+out.reddit.com
+gateway.reddit.com
+oauth.reddit.com
+www.redditmedia.com
+redditmedia.com
+old.reddit.com
+v.redd.it
+
+
+# Imgur
+imgur.com
+www.imgur.com
+i.imgur.com
+s.imgur.com
+
+# Smashing Magazine
+smashingmagazine.com
+www.smashingmagazine.com
+
+# Medium
+medium.com
+www.medium.com
+cdn-images-1.medium.com
+
+# Dilbert
+dilbert.com
+www.dilbert.com
+
+# Lifehacker
+lifehacker.com
+www.lifehacker.com
+i.kinja-img.com
+x.kinja-static.com
+kotaku.com
+www.kotaku.com
+
+# Gizmodo
+gizmodo.com
+www.gizmodo.com
+
+# Krebs on Security
+krebsonsecurity.com
+www.krebsonsecurity.com
+
+# CSS Tricks
+res.cloudinary.com
+
+# Engadget
+s.aolcdn.com
+
+# Nerdist
+nerdist.com
+www.nerdist.com
+
+# Squarespace
+static.squarespace.com
+static1.squarespace.com
+
+# Howtogeek
+howtogeek.com
+www.howtogeek.com
+
+# Ars Technica
+arstechnica.com
+www.arstechnica.com
+
+# Engadget
+engadget.com
+www.engadget.com
+
+# The Verge
+theverge.com
+www.theverge.com
+
+# OS News
+osnews.com
+www.osnews.com
+
+# Wordpress
+s0.wp.com
+s1.wp.com
+i0.wp.com
+i1.wp.com
+i2.wp.com
+
+# Hacker News
+news.ycombinator.com
+
+
+medium.freecodecamp.org
+
+# Gravatar
+0.gravatar.com
+
+# The Coding Love
+thecodinglove.com
+www.thecodinglove.com
+lesjoiesducode.fr
+tclhost.com
+www.tclhost.com
+
+# Web Platform
+webplatform.news
+www.webplatform.news
+
+
+
+# =========================================================
+# DESIGN RESOURCE
+# =========================================================
+
+gumroad.com
+www.gumroad.com
+
+sellfy.com
+www.sellfy.com
+
+unsplash.com
+www.unsplash.com
+images.unsplash.com
+
+# =========================================================
+# APPLE
+# =========================================================
+
+# Apple
+time.apple.com
+time-ios.apple.com
+time-ios.g.aaplimg.com
+appleid.apple.com
+
+# iTunes
+itunes.apple.com
+
+# iOS
+iphonesubmissions.apple.com
+xp.apple.com
+api.smoot.apple.com
+
+
+
+# =========================================================
+# REMOTE ACCESS
+# =========================================================
+
+# TeamViewer
+client.teamviewer.com
+master9.teamviewer.com
+
+# GoToAssist (used by TNT)
+gotoassist.com
+www.gotoassist.com
+broker.gotoassist.com
+launch.getgo.com
+static.getgocdn.com
+
+# James Hamilton
+logmein.com
+www.logmein.com
+secure.logmein.com
+wt.logmein.com
+
+
+
+
+
+# =========================================================
+# WEB CHAT
+# =========================================================
+
+# Tawk.to
+embed.tawk.to
+tawk.to
+www.tawk.to
+va.tawk.to
+deliver.tawk.to
+
+
+
+# =========================================================
+# MEDIA
+# =========================================================
+
+# OpenELEC
+update.openelec.tv
+mirrors.kodi.tv
+addons.openelec.tv
+image.tmdb.org
+feeds.kodi.tv
+ftp1.nluug.nl
+ftp.fau.de
+
+# Trakt
+trakt.tv
+api.trakt.tv
+walter.trakt.tv
+
+# Kodi Add-on repositories
+ftp.halifax.rwth-aachen.de
+ftp.acc.umu.se
+ftp.snt.utwente.nl
+ftp.heanet.ie
+mirror.netcologne.de
+ftp2.nluug.nl
+mirror.onet.pl
+mirror.hro.nl
+
+# Sonarr
+services.sonarr.tv
+skyhook.sonarr.tv
+download.sonarr.tv
+apt.sonarr.tv
+forums.sonarr.tv
+
+# SoundCloud
+soundcloud.com
+www.soundcloud.com
+gate.sc
+www.gate.sc
+
+# MetaData
+fanart.tv
+
+
+
+##### Podcasts
+
+# My Dad Wrote a Porno
+audio-cdn.acast.com
+
+# Amazon/Podcasts
+s3-eu-west-1.amazonaws.com
+
+# Misc
+feeds.feedburner.com
+
+# Changelog
+cdn.changelog.com
+
+# Daily Tech News Show
+media.acast.com
+stitcher.acast.com
+
+# Invisibilia
+npr.mc.tritondigital.com
+
+# Sam Harris / Making Sense
+samharris.org
+www.samharris.org
+static.samharris.org
+
+# Gimlet
+gimletmedia.com
+www.gimletmedia.com
+
+# Security Now
+grc.sc
+www.grc.sc
+pdst.fm
+www.pdst.fm
+
+# 99% Invisible
+dts.podtrac.com
+
+
+
+
+# IMDB
+imdb.com
+www.imdb.com
+
+# BBC iPlayer
+emp.bbci.co.uk
+boomr.iplayer.api.bbc.co.uk
+mybbc-analytics.files.bbci.co.uk
+vs-live-uk.live.cf.md.bbci.co.uk
+open-live.bbc.net.uk
+open.live.bbc.co.uk
+
+# ITV Hub
+de.cdn-v3.conductrics.com
+
+# Channel 4
+d29usylhdk1xyu.cloudfront.net
+2a7e9.v.fwmrm.net
+
+
+# =========================================================
+# PI-HOLE
+# =========================================================
+
+# Pihole
+pi-hole.net
+jacobsalmela.com
+
+
+
+# =========================================================
+# BLACKLISTS & AD BLOCKING
+# =========================================================
+
+easylist-downloads.adblockplus.org
+
+
+
+
+
+# =========================================================
+# WEBSITES
+# =========================================================
+
+# Todoist
+todoist.com
+www.todoist.com
+get.todoist.help
+
+# 192.com
+192.com
+www.192.com
+
+# TorrentFreak
+torrentfreak.com
+www.torrentfreak.com
+
+# 500px
+drscdn.500px.org
+
+# Gravatar
+secure.gravatar.com
+
+# Kickstarter
+kickstarter.com
+www.kickstarter.com
+
+# Indiegogo
+indiegogo.com
+www.indiegogo.com
+link.indiegogo.com
+
+# Hackerone
+hackerone.com
+www.hackerone.com
+
+# Meetup
+secure.meetup.com
+meetup.com
+www.meetup.com
+
+# DeviantArt
+deviantart.com
+www.deviantart.com
+
+# GDPR Enforcement Tracker
+enforcementtracker.com
+www.enforcementtracker.com
+kaulartz.de
+www.kaulartz.de
+
+# Airtable
+airtable.com
+www.airtable.com
+
+# Instructables
+instructables.com
+www.instructables.com
+
+ip-tracker.org
+www.ip-tracker.org
+
+whatismyipaddress.com
+www.whatismyipaddress.com
+
+drexl.me
+www.drexl.me
+
+archive.org
+www.archive.org
+web.archive.org
+
+# Polygon
+polygon.com
+www.polygon.com
+players.brightcove.net
+edge.api.brightcove.com
+secure.brightcove.com
+
+# Flickr
+flickr.com
+www.flickr.com
+
+# Graphic Design Freebies
+prism.app-us1.com
+
+# Linux Config
+linuxconfig.org
+www.linuxconfig.org
+
+# Gocompare
+gocompare.com
+www.gocompare.com
+
+
+
+# =========================================================
+# CHARITY
+# =========================================================
+
+justgiving.com
+www.justgiving.com
+
+
+# =========================================================
+# WEB FONTS
+# =========================================================
+
+typekit.net
+www.typekit.net
+use.typekit.net
+p.typekit.net
+
+
+use.fontawesome.com
+
+fast.fonts.net
+
+myfonts.com
+www.myfonts.com
+
+
+# =========================================================
+# FOOD / RESTAURANTS
+# =========================================================
+
+vintageinn.co.uk
+www.vintageinn.co.uk
+
+
+# =========================================================
+# SPEED TESTS
+# =========================================================
+
+api.fast.com
+
+
+
+# Misc
+yelp.co.uk
+www.yelp.co.uk
+
+
+api.qrserver.com
+
+# Mapbox
+api.mapbox.com
+api.tiles.mapbox.com
+a.tiles.mapbox.com
+
+# OpenStreetMap
+josm.openstreetmap.de
+
+# Purism
+puri.sm
+www.puri.sm
+piwik.puri.sm
+videos.puri.sm
+
+# VirusTotal
+static-dot-virustotalcloud.appspot.com
+
+# Wikipedia / Wikimedia
+wikipedia.org
+en.wikipedia.org
+www.wikipedia.org
+commons.wikimedia.org
+
+# Archive.org / Wayback Machine
+archive.org
+www.archive.org
+
+
+# =========================================================
+# QUICK FIXES
+# =========================================================
+
+# Add domains below. Please add comments to indicate the purpose of the whitelisted domain(s).
+
+# Wix
+premium.wix.com
+
+
+
+# VPN Providers
+nordvpn.com
+www.nordvpn.com
+
+
+# Events
+eventree.co.uk
+www.eventree.co.uk
+theprintshow19.reg.buzz
+
+gravatar.com
+www.gravatar.com
+en.gravatar.com
+
+archive.is
+www.archive.is
+mannin-group.im
+www.mannin-group.im
+
+regular-expressions.info
+www.regular-expressions.info
+
+pizzey.me
+www.pizzey.me
+
+# Cron
+crontab.guru
+www.crontab.guru
+cron.schlitt.info
+cron.help
+www.cron.help
+
+# Honeywell
+device-messaging-na.amazon.com
+analytics.localytics.com
+honeywelllyric.helpshift.com
+cognito-identity.us-east-1.amazonaws.com
+api.amazon.com
+spectrum.s3.amazonaws.com
+mobile.eum-appdynamics.com
+lyric.alarmnet.com
+fireoscaptiveportal.com
+
+# ICANN
+icann.org
+www.icann.org
+archive.icann.org
+forms.icann.org
+
+# Lonely Mountains Downhill
+cdp.cloud.unity3d.com
+perf-events.cloud.unity3d.com
+config.uca.cloud.unity3d.com
+pc.leaderboard.lonelymountains.com
+api.gameanalytics.com
+
+# M247
+app.liveoptics.com
+
+# Advertising Standards Agency
+asa.org.uk
+www.asa.org.uk
+
+# Beckie - Brand Warriors
+brandwarriors.co.uk
+www.brandwarriors.co.uk
+brandwarriors.staffed.it
+
+# Wayne - parent
+ps-connect.cloud
+www.ps-connect.cloud
+
+# Photoshop
+remove.bg
+www.remove.bg
+
+# Armello
+api.mixpanel.com
+
+# Fiverr
+fiverr.com
+www.fiverr.com
+
+# LogMeIn
+accounts.logme.in
+logme.in
+www.logme.in
+
+# Misc
+tek-tips.com
+www.tek-tips.com
+
+
+
+# Epic Games
+cdn1.epicgames.com
+store-content.ak.epicgames.com
+static-assets-prod.epicgames.com
+
+# Steam Remote Play?
+push.rollout.io
+playatoms-pa.googleapis.com
+
+# Zoom
+us04web.zoom.us
+www3.zoom.us
+www.zoom.us
+us04static.zoom.us
+zoomca542415687zc.zoom.us
+
+# Motorola UK
+motorola.co.uk
+www.motorola.co.uk
+motorolauk.vteximg.com.br
+motorolauk.vtexassets.com
+
+# Spotify (Testing)
+pixel-static.spotify.com
+pixel.spotify.com
+
+# Chromium Bugs
+monorail-prod-default-v061-dot-monorail-prod.appspot.com
+monorail-prod-default-v062-dot-monorail-prod.appspot.com
+monorail-prod-default-v063-dot-monorail-prod.appspot.com
+
+# Task Management
+nototo.app
+www.nototo.app
+
+# AliExpress
+aliexpress.com
+www.aliexpress.com
+login.aliexpress.com
+i.alicdn.com
+ae01.alicdn.com
+assets.alicdn.com
+s.click.aliexpress.com
+aeu.alicdn.com
+cmap.alibaba.com
+feedback.aliexpress.com
+freight.aliexpress.com
+coupon.aliexpress.com
+lighthouse.aliexpress.com
+
+# Programming
+shellmagic.xyz
+www.shellmagic.xyz
+
+# Coronavirus / COVID-19
+coronavirus.data.gov.uk
+api.coronavirus-staging.data.gov.uk
+api.coronavirus.data.gov.uk
+coronavirus-staging.data.gov.uk
+covid.ourworldindata.org
+
+
+# Wordpress
+wordpress.com
+www.wordpress.com
+
+# Trademark Office
+wipo.int
+www.wipo.int
+www3.wipo.int
+
+# Anglian Water
+crb.awis.solutions
+
+
+
+
+# =========================================================
+# 0s7V1cIBdJIGvfieXOAp45lmNl
+# =========================================================
