@@ -59,6 +59,9 @@ gavdb.roaming-ddns.venturebanners.network
 backup-internal.ddns.venturebanners.network
 backup-remote.ddns.venturebanners.network
 
+# Domain Lists
+domain-lists.venturebanners.network
+
 # The Print Show
 the-print-show-2019-exhibitor.reg.buzz
 link-exhibitions-uk-ltd.control.buzz
