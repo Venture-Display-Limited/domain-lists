@@ -1,0 +1,78 @@
+# =========================================================
+# VENTURE
+# =========================================================
+
+vb-oa.co.uk
+www.vb-oa.co.uk
+dev.vb-oa.co.uk
+venturebanners.co.uk
+www.venturebanners.co.uk
+api.venturebanners.co.uk
+thumbnails.venturebanners.co.uk
+thumbnails.venturebanners.co.uk
+email-images.venturebanners.co.uk
+static.venturebanners.co.uk
+artwork-thumbnails.venturebanners.co.uk
+blog.venturebanners.co.uk
+blogdev.venturebanners.co.uk
+campaignmonitor.venturebanners.co.uk
+campaign-monitor.venturebanners.co.uk
+click.pm.venturebanners.co.uk
+cm-link.venturebanners.co.uk
+autodiscover.venturebanners.co.uk
+blacklist-test.venturebanners.co.uk
+csp-reporting.venturebanners.co.uk
+email.mg.venturebanners.co.uk
+link.email.venturebanners.co.uk
+lyncdiscover.venturebanners.co.uk
+msoid.venturebanners.co.uk
+mta-sts.email.venturebanners.co.uk
+mta-sts.venturebanners.co.uk
+office.venturebanners.co.uk
+pm-bounces.pm.venturebanners.co.uk
+pm.venturebanners.co.uk
+selector1._domainkey.venturebanners.co.uk
+selector2._domainkey.venturebanners.co.uk
+sip.venturebanners.co.uk
+uptime.venturebanners.co.uk
+ws.venturebanners.co.uk
+int-vb.co.uk
+pi-hole.int-vb.co.uk
+cameras.int-vb.co.uk
+
+# Redirecting domains
+venturebanners.uk
+www.venturebanners.uk
+venturebanners.dev
+www.venturebanners.dev
+venture-banners.com
+www.venture-banners.com
+venture-banners.co.uk
+www.venture-banners.co.uk
+
+# Artwork thumbnails
+d3yl9uo19dj0.cloudfront.net
+
+# WeTransfer
+venture.wetransfer.com
+sendgrid.net
+prod-cdn.wetransfer.net
+
+# VB-OA
+chart.googleapis.com
+quickchart.io
+www.quickchart.io
+quickchart-eu7vrotrfq-uc.a.run.app
+
+# Misc Projects
+artwork.guide
+
+# Hugh Jass
+hughjass.co.uk
+www.hughjass.co.uk
+hughjassdisplay.co.uk
+www.hughjassdisplay.co.uk
+hughjassdisplays.co.uk
+www.hughjassdisplays.co.uk
+hughjass.graphics
+www.hughjass.graphics

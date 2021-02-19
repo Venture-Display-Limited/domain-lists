@@ -1,0 +1,600 @@
+# =========================================================
+# LINUX
+# =========================================================
+
+# Ubuntu
+archive.ubuntu.com
+archive.canonical.com
+security.ubuntu.com
+ntp.ubuntu.com
+gb.archive.ubuntu.com
+ppa.launchpad.net
+connectivity-check.ubuntu.com
+daisy.ubuntu.com
+changelogs.ubuntu.com
+livepatch.canonical.com
+nmcheck.gnome.org
+
+# Ubuntu websites
+insights.ubuntu.com
+bugs.launchpad.net
+
+# Linux Mint
+packages.linuxmint.com
+extra.linuxmint.com
+linuxmintpkg.efemef.ovh
+
+# Chrome on Linux
+dl.google.com
+dl.l.google.com
+
+# Debian/ UniFi
+security.debian.org
+httpredir.debian.org
+cdn-fastly.deb.debian.org
+
+# Raspbian
+mirrordirector.raspbian.org
+archive.raspberrypi.org
+
+# Kali
+kali.download
+www.kali.download
+
+# Community
+lists.gnu.org
+
+# Ubiquiti/UniFi
+account.ubnt.com
+ubnt.com
+www.ubnt.com
+unifi-report.ubnt.com
+fw-download.ubnt.com
+c3sdnuexugkg7e.credentials.iot.us-west-2.amazonaws.com
+ui.com
+www.ui.com
+fw-update.ubnt.com
+dl.ubnt.com
+unifi-report.ubnt.com
+cloudaccess.svc.ubnt.com
+elite-device.svc.ubnt.com
+ping.ui.com
+ping.ubnt.com
+
+# Ubuntu / Debian
+api.snapcraft.io
+snapcraft.io
+apt.sparkz.no
+sparkz.no
+
+# Sublime Text
+packagecontrol.io
+codeload.github.com
+packages.monokai.pro
+monokai.pro
+
+# KeePass
+keepass.info
+
+# Wacom
+wacom.eu
+
+# Adobe
+adobe.ly
+
+# Adobe Scripts
+scripts.corullon.com.br
+corullon.com.br
+www.corullon.com.br
+
+# Pidgin
+pidgin.im
+
+# Ejabberd
+ejabberd.im
+www.ejabberd.im
+docs.ejabberd.im
+
+# Mongooseim
+mongooseim.readthedocs.io
+
+# Prosody
+prosody.im
+www.prosody.im
+
+# FastMail
+api.pin.net.au
+
+# Postmark
+ea.pstmrk.it
+click.pstmrk.it
+
+# PiVPN
+pivpn.dev
+www.pivpn.dev
+
+# Chocolately
+chocolatey.org
+www.chocolatey.org
+
+# curl
+curl.haxx.se
+daniel.haxx.se
+haxx.se
+confusedbycode.com
+www.confusedbycode.com
+www.curl.se
+curl.se
+
+# Opera
+opera.software
+desktop-qualityclient-sub.osp.opera.software
+extension-updates.opera.com
+autoupdate.geo.opera.com
+sd-images.operacdn.com
+speeddials.opera.com
+addons-media.operacdn.com
+addons.opera.com
+download.opera.com
+redir.opera.com
+sitecheck.opera.com
+exchange.opera.com
+net.geo.opera.com
+
+# Authy
+api.authy.com
+authy.com
+www.authy.com
+
+# Remarkable
+remarkable.engineering
+get-updates.cloud.remarkable.engineering
+updates.cloud.remarkable.engineering
+
+# Handbrake
+handbrake.fr
+www.handbrake.fr
+download2.handbrake.fr
+
+# FontBase
+fontba.se
+www.fontba.se
+api.fontba.se
+releases.fontba.se
+
+# Buttercup
+buttercup.pw
+www.buttercup.pw
+
+# Rufus
+rufus.ie
+www.rufus.ie
+
+# Fiddler
+fiddler2.com
+www.fiddler2.com
+
+# Sandboxie
+sandboxie.com
+www.sandboxie.com
+
+# Endoflife
+endoflife.date
+www.endoflife.date
+
+# Veracrypt
+veracrypt.fr
+www.veracrypt.fr
+
+# Blender
+ftp.nluug.nl
+
+# Operating Systems
+getsol.us
+www.getsol.us
+
+# TeamViewer
+dl.tvcdn.de
+
+# Solar Power
+ginlongmonitoring.com
+www.ginlongmonitoring.com
+m.ginlong.com
+file.solarman.cn
+restapi.amap.com
+data1.solarmanpv.com
+data2.solarmanpv.com
+solarman.cn
+www.solarman.cn
+assets-cli.udesk.cn
+pro.solarman.cn
+
+# =========================================================
+# ANDROID
+# =========================================================
+
+# Android
+connectivitycheck.android.com
+connectivitycheck.gstatic.com
+android.clients.google.com
+play.googleapis.com
+appspot-preview.l.google.com
+
+# Motorola OTA Updates
+moto-cds.appspot.com
+
+# Pixel OTA Updates
+ota.googlezip.net
+proxy.googlezip.net
+check.googlezip.net
+
+# Samsung
+# Noisy domain from tablets, testing allowing 2019-05-25
+api.spd.samsungdm.com
+
+# EE
+gb.ee.rcs.telephony.goog
+api.ee.co.uk
+id.ee.co.uk
+
+# =========================================================
+# DEVICES
+# =========================================================
+
+# Remarkable
+remarkable.engineering
+cloud.remarkable.engineering
+get-updates.cloud.remarkable.engineering
+remarkable.com
+my.remarkable.com
+service-manager-production-dot-remarkable-production.appspot.com
+nsc5-notifications-production.cloud.remarkable.engineering
+document-storage-production-dot-remarkable-production.appspot.com
+omaha-remarkable-ie.s3.eu-west-1.amazonaws.com
+p051-notifications-production.cloud.remarkable.engineering
+webapp-production-dot-remarkable-production.appspot.com
+
+# =========================================================
+# ADOBE
+# =========================================================
+
+# Adobe
+sales.liveperson.net
+adobeid-na1.services.adobe.com
+
+# Adobe CS6 Updates
+swupmf.adobe.com
+swupdl.adobe.com
+
+# Adobe CS6 Licensing
+lm.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+genuine.adobe.com
+
+# Adobe CC
+activate.adobe.com
+ans.oobesaas.adobe.com
+ccmdls.adobe.com:443
+ims-na1.adobelogin.com
+na1r.services.adobe.com
+prod-rel-ffc-ccm.oobesaas.adobe.com
+lm.licenses.adobe.com
+ccmdl.adobe.com
+adobeid.services.adobe.com
+uds.licenses.adobe.com
+dc-api.adobe.io
+acp-ss-ew1.adobe.io
+ims-prod06.adobelogin.com
+lcs-cops.adobe.io
+cc-api-data.adobe.io
+hbrt.adobe.com
+hbrcv.adobe.com
+
+# Adobe Website
+assets.adobedtm.com
+geo2.adobe.com
+account.adobe.com
+
+# Acrobat Reader Installing
+dlmping2.adobe.com
+ardownload2.adobe.com
+
+# Typekit
+typekit.com
+www.typekit.com
+
+# =========================================================
+# GPU & GRAPHICS
+# =========================================================
+
+# AMD
+support.amd.com
+dsa-support.amd.com.edgekey.net
+
+# Nvidia
+www.nvidia.com
+stun.gamestream.nvidia.com
+nv.stun.gamestream.nvidia.com
+s1.stun.gamestream.nvidia.com
+gfe.nvidia.com
+download-cdn.gfe.nvidia.com
+services.gfe.nvidia.com
+services-cdn.gfe.nvidia.com
+international.download.nvidia.com
+images.nvidia.com
+blogs.nvidia.com
+forums.nvidia.com
+gfwsl.geforce.com
+www.geforce.co.uk
+www.geforce.cn
+uk.geforce.com
+www.geforce.com
+www.geforce.com.tw
+events.gfe.nvidia.com
+accounts.nvgs.nvidia.com
+rds-assets.nvidia.com
+app.nvidia.com
+
+
+# =========================================================
+# SOFTWARE
+# =========================================================
+
+# Dropbox
+dropbox.com
+www.dropbox.com
+dl.dropbox.com
+client-cf.dropbox.com
+notify2.dropbox.com
+2.notify.dropbox.com
+dl-debug.dropbox.com
+dl-debug.x.dropbox.com
+d.dropbox.com
+d.v.dropbox.com
+dl-web.dropbox.com
+cfl.dropboxstatic.com
+bolt.dropbox.com
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+api.dropboxapi.com
+connectivitycheck.getdropbox.com
+block-edge-1.dropbox.com
+block-edge-2.dropbox.com
+block-edge-anycast.dropbox.com
+photos-thumb.dropbox.com
+client-web.dropbox.com
+client.dropbox.com
+netmon-control.dropbox.com
+edge-misc.dropbox-dns.com
+beacon.dropbox.com
+dropbox.tech
+www.dropbox.tech
+
+# Sublime Text
+www.sublimetext.com
+sublimetext.com
+packagecontrol.io
+www.sublimehq.com
+license.sublimehq.com
+
+# GitHub
+raw.githubusercontent.com
+assets-cdn.github.com
+api.github.com
+github.com
+www.github.com
+avatars1.githubusercontent.com
+avatars2.githubusercontent.com
+avatars3.githubusercontent.com
+camo.githubusercontent.com
+github.blog
+gist.github.com
+git.io
+www.git.io
+cdn.rawgit.com
+cloud.githubusercontent.com
+
+# Bitbucket
+bam.nr-data.net
+
+# Bitbucket Community
+tnckb94959.i.lithium.com
+
+
+# Syncthing
+upgrades.syncthing.net
+relays.syncthing.net
+web.syncthing.net
+data.syncthing.net
+discovery-v6-1.syncthing.net
+discovery-v6-2.syncthing.net
+discovery-v6-3.syncthing.net
+discovery-v4-1.syncthing.net
+discovery-v4-2.syncthing.net
+discovery-v4-3.syncthing.net
+
+
+# Sage
+update.sage.com
+
+# Adobe
+fpdownload.macromedia.com
+
+# Ubiquiti / UniFi
+dl.ubnt.com
+www.ubnt.com
+device.svc.ubnt.com
+device-adopt.svc.ubnt.com
+cdn-fastly.deb.debian.org
+rollout.ubnt.com
+elite-billing.ubnt.com
+prd-www-cdn.ubnt.com
+fw-download.ubnt.com
+dmuml5c39zuoo.cloudfront.net
+
+# DisplayFusion
+www.binaryfortress.com
+binaryfortressdownloads.com
+
+# Firefox
+www.mozilla.org
+shavar.prod.mozaws.net
+shavar.services.mozilla.com
+www.mozilla.org.cdn.cloudflare.net
+detectportal.firefox.com
+services.addons.mozilla.org
+firefox.settings.services.mozilla.com
+location.services.mozilla.com
+blocklists.settings.services.mozilla.com
+support.cdn.mozilla.net
+trackthis.link
+www.trackthis.link
+
+# Opera
+autoupdate.geo.opera.com
+dl.opera.com
+download1.operacdn.com
+www-static-blogs.operacdn.com
+
+# Squeezebox
+jive.squeezenetwork.com
+repos.squeezecommunity.org
+www.mysqueezebox.com
+www.logitech.com
+
+# Pi-hole
+pi-hole.net
+changes.pi-hole.net
+
+# Canary Tokens
+canarytokens.org
+
+# Greenshot
+getgreenshot.org
+www.getgreenshot.org
+
+# Dexpot
+dexpot.de
+www.dexpot.de
+
+
+# /e/
+e.foundation
+gitlab.e.foundation
+
+# Notion
+notion.so
+www.notion.so
+
+
+# =========================================================
+# BROWSER EXTENSIONS
+# =========================================================
+
+# Lastpass
+pollserver.lastpass.com
+lp-push-server-748.lastpass.com
+lp-push-server-877.lastpass.com
+lastpass.com
+www.lastpass.com
+loglogin.lastpass.com
+lastpass.com.edgekey.net
+
+# Xmarks
+login.xmarks.com
+sync.xmarks.com
+
+# Adblocks and Lists
+easylist.to
+raw.githubusercontent.com
+www.malwaredomainlist.com
+mirror1.malwaredomains.com
+
+# Pushbullet
+zebra.pushbullet.com
+
+# Stylish / Stylus
+userstyles.org
+www.userstyles.org
+
+
+# =========================================================
+# HARDWARE
+# =========================================================
+
+# Netgate/pfSense
+files00.netgate.com
+files01.netgate.com
+firmware.netgate.com
+files.pfsense.org
+ews.netgate.com
+0.pfsense.pool.ntp.org
+_https._tcp.firmware.netgate.com
+_https._tcp.auth.netgate.com
+_https._tcp.repo.netgate.com
+auth00.netgate.com
+repo00.netgate.com
+auth01.netgate.com
+acb.netgate.com
+
+# Netgear
+netgear.opendns.com
+downloadcenter.netgear.com
+support.netgear.com
+www.netgear.com
+netgear.com
+updates1.netgear.com
+time-h.netgear.com
+
+# Synology
+pkgautoupdate.synology.com
+payment.synology.com
+
+# =========================================================
+# REMOTE ACCESS
+# =========================================================
+
+# TeamViewer
+client.teamviewer.com
+master9.teamviewer.com
+
+# GoToAssist (used by TNT)
+gotoassist.com
+www.gotoassist.com
+broker.gotoassist.com
+launch.getgo.com
+static.getgocdn.com
+
+# James Hamilton
+logmein.com
+www.logmein.com
+secure.logmein.com
+wt.logmein.com
+
+# LogMeIn
+accounts.logme.in
+logme.in
+www.logme.in
+
+
+
+
+# Canary
+
+snowplow.canary.is
+my.canary.is
+canary.is
+www.canary.is
+
+
+# Honeywell
+device-messaging-na.amazon.com
+analytics.localytics.com
+honeywelllyric.helpshift.com
+cognito-identity.us-east-1.amazonaws.com
+api.amazon.com
+spectrum.s3.amazonaws.com
+mobile.eum-appdynamics.com
+lyric.alarmnet.com
+fireoscaptiveportal.com

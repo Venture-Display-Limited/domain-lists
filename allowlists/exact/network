@@ -1,0 +1,56 @@
+# Internal Network
+venturebanners.network
+primary.router.venturebanners.network
+secondary.router.venturebanners.network
+
+primary.router.venturebanners.network
+router.business.venturebanners.network
+cameras.business.venturebanners.network
+pihole1.business.venturebanners.network
+pihole2.business.venturebanners.network
+pihole3.business.venturebanners.network
+nas1.business.venturebanners.network
+nas2.business.venturebanners.network
+unifi.business.venturebanners.network
+printer.rip.business.venturebanners.network
+printer.accounts.business.venturebanners.network
+ejabberd.business.venturebanners.network
+syncthing.server.business.venturebanners.network
+im.business.venturebanners.network
+
+# Secondary Network
+secondary.router.venturebanners.network
+router.secondary.venturebanners.network
+pihole1.secondary.venturebanners.network
+pihole2.secondary.venturebanners.network
+unifi.secondary.venturebanners.network
+solar.secondary.venturebanners.network
+
+# Roaming DDNS
+roaming-ddns.venturebanners.network
+scott.roaming-ddns.venturebanners.network
+wayne.roaming-ddns.venturebanners.network
+stevedb.roaming-ddns.venturebanners.network
+ian.roaming-ddns.venturebanners.network
+gavdb.roaming-ddns.venturebanners.network
+
+# DDNS
+backup-internal.ddns.venturebanners.network
+backup-remote.ddns.venturebanners.network
+
+# Domain Lists
+domain-lists.venturebanners.network
+
+
+# =========================================================
+# NTP
+# =========================================================
+
+0.pool.ntp.org
+
+
+# =========================================================
+# SPEED TESTS
+# =========================================================
+
+api.fast.com

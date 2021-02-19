@@ -1,0 +1,30 @@
+# =========================================================
+# APPLE
+# =========================================================
+
+store.apple.com
+icloud.com
+www.icloud.com
+ocsp.apple.com
+valid.apple.com
+mesu.apple.com
+
+# Connectivity / Captive Portal
+captive.apple.com
+gsp1.apple.com
+www.apple.com
+www.appleiphonecell.com
+
+# Apple
+time.apple.com
+time-ios.apple.com
+time-ios.g.aaplimg.com
+appleid.apple.com
+
+# iTunes
+itunes.apple.com
+
+# iOS
+iphonesubmissions.apple.com
+xp.apple.com
+api.smoot.apple.com

@@ -1,0 +1,175 @@
+zoom.us
+tradeprint.zoom.us
+
+# =========================================================
+# EMAIL
+# =========================================================
+
+# Outlook
+outlook.office.com
+edge.outlook.office365.com
+lb.geo.office365.com
+outlook.office365.com.g.office365.com
+outlook-emeacenter.office365.com
+outlook-emeacenter2.office365.com
+nexus.officeapps.live.com
+outlook.live.com
+outlook.office365.com
+client-office365-tas.msedge.net
+secure.aadcdn.microsoftonline-p.com
+r4.res.office365.com
+ow2.res.office365.com
+vbanners-my.sharepoint.com
+
+# Outlook (Venture)
+autodiscover.venturebanners.co.uk
+
+# Hotmail
+login.live.com
+msagfx.live.com
+
+# Fastmail
+fastmail.com
+www.fastmail.com
+
+# Mailgun
+email.mg.venturebanners.co.uk
+mg.venturebanners.co.uk
+mailgun.com
+api.mailgun.net
+smtp.mailgun.org
+eu.mailgun.org
+mailgun.org
+help.mailgun.com
+optanon.blob.core.windows.net
+presence.api.drift.com
+customer.api.drift.com
+js.hs-scripts.com
+
+# Mailgun email previews
+dev.visualwebsiteoptimizer.com
+v2.zopim.com
+
+# Yahoo
+mail.yahoo.com
+login.yahoo.com
+consent.cmp.oath.com
+s.yimg.com
+csp.yahoo.com
+yahoo.com
+www.yahoo.com
+ecp.yusercontent.com
+
+# Campaign Monitor
+i1.createsend1.com
+i2.createsend1.com
+i3.createsend1.com
+i4.createsend1.com
+i5.createsend1.com
+i6.createsend1.com
+i7.createsend1.com
+i8.createsend1.com
+i9.createsend1.com
+i10.createsend1.com
+img.createsend1.com
+campaignmonitor.com
+www.campaignmonitor.com
+js.createsend1.com
+css.createsend1.com
+tag.demandbase.com
+api.company-target.com
+browser.sentry-cdn.com
+help.campaignmonitor.com
+i1.campaignmonitor.com
+i2.campaignmonitor.com
+i3.campaignmonitor.com
+css.createsend1.com
+
+
+
+
+
+# MailChimp
+mailchi.mp
+www.mailchi.mp
+mailchimp.com
+www.mailchimp.com
+list-manage.com
+yourprintpartner.us4.list-manage.com
+gallery.mailchimp.com
+cdn-images.mailchimp.com
+us18.campaign-archive.com
+us18.admin.mailchimp.com
+login.mailchimp.com
+
+# Mandrill
+mandrillapp.com
+
+# Return Path / Sender Score
+senderscore.org
+www.senderscore.org
+returnpath.com
+www.returnpath.com
+returnpath.net
+www.returnpath.net
+blog.returnpath.com
+email.returnpath.com
+static.returnpath.net
+
+# Misc Email Tracking Links
+zc1.campaign-view.eu
+
+
+
+# =========================================================
+# SMS
+# =========================================================
+
+# Twilio
+s815114181.t.en25.com
+
+
+# =========================================================
+# ISP
+# =========================================================
+
+# BT
+bt.com
+www.bt.com
+home.bt.com
+
+# BT Business
+d3c3cq33003psk.cloudfront.net
+btbusiness.d1.sc.omtrdc.net
+btbusiness.tt.omtrdc.net
+
+
+# PlusNet
+plus.net
+www.plus.net
+
+
+
+# Discord
+discordapp.com
+www.discordapp.com
+cdn.discordapp.com
+eu-west51.discord.media
+eu-west791.discord.media
+eu-central871.discord.media
+eu-west595.discord.media
+discord.gg
+www.discord.gg
+
+# Disqus
+disquscdn.com
+c.disquscdn.com
+disqus.com
+a.disquscdn.com
+
+# Zoom
+us04web.zoom.us
+www3.zoom.us
+www.zoom.us
+us04static.zoom.us
+zoomca542415687zc.zoom.us

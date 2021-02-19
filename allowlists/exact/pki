@@ -1,0 +1,78 @@
+# =========================================================
+# CERTIFICATES
+# =========================================================
+
+# Let's Encrypt
+ocsp.int-x3.letsencrypt.org
+acme-v02.api.letsencrypt.org
+
+# Microsoft
+ocsp.msocsp.com
+mscrl.microsoft.com
+crl.www.ms.akadns.net
+crl.microsoft.com
+
+# Globalsign
+hostedocsp.globalsign.com
+crl.globalsign.net
+ocsp.globalsign.com
+ocsp2.globalsign.com
+
+# Digicert
+digicert.com
+www.digicert.com
+ocsp.digicert.com
+crl3.digicert.com
+crl4.digicert.com
+
+# GeoTrust
+geotrust.com
+www.geotrust.com
+
+# Symantec
+symantec.com
+www.symantec.com
+s1.symcb.com
+s2.symcb.com
+sr.symcb.com
+vs.symantec.com
+nsg.symantec.com
+oms.symantec.com
+gm.symcb.com
+gm.symcd.com
+tf.symcd.com
+sr.symcd.com
+g1.symcb.com
+g2.symcb.com
+gp.symcb.com
+tn.symcb.com
+sv.symcd.com
+gt.symcd.com
+ss.symcd.com
+sw.symcd.com
+s.symcd.com
+sf.symcd.com
+g.symcd.com
+
+# Comodo
+ocsp.comodoca.com
+
+# Sectigo
+ocsp.sectigo.com
+
+# Verisign
+ocsp.verisign.com
+
+# Misc
+ocsp.omniroot.com
+cdp1.public-trust.com
+certrevoc.vo.msecnd.net
+ocsp.usertrust.com
+crl.usertrust.com
+
+# Let's Encrypt
+letsencrypt.org
+
+# Google
+crl.pki.goog
+ocsp.pki.goog

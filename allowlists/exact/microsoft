@@ -1,0 +1,148 @@
+# =========================================================
+# MICROSOFT
+# =========================================================
+
+# https://docs.microsoft.com/en-us/windows/configuration/manage-windows-endpoints-version-1709
+
+# Windows Network Connectivity
+msftncsi.com
+www.msftncsi.com
+msftconnecttest.com
+www.msftconnecttest.com
+ipv6.msftncsi.com
+
+# Windows Licensing
+activation-v2.sls.microsoft.com
+validation-v2.sls.microsoft.com
+licensing.mp.microsoft.com
+
+# Windows & Windows Update
+teredo.ipv6.microsoft.com
+ctldl.windowsupdate.com
+ds.download.windowsupdate.com
+fe2.update.microsoft.com
+fe2.update.microsoft.com.nsatc.net
+download.windowsupdate.com
+au.download.windowsupdate.com
+au.au-msedge.net
+au.c-0001.c-msedge.net
+c-0001.c-msedge.net is
+www.microsoft.com
+wscont.apps.microsoft.com
+dns.msftncsi.com
+diagnostics.support.microsoft.com
+support.microsoft.com
+licensing.mp.microsoft.com
+login.msa.akadns6.net
+storecatalogrevocation.storequality.microsoft.com
+go.microsoft.com
+fg.download.windowsupdate.com.c.footprint.net
+sls.update.microsoft.com
+fe3.delivery.mp.microsoft.com
+fs.microsoft.com
+cy2.settings.data.microsoft.com.akadns.net
+software-download.microsoft.com
+3.dl.delivery.mp.microsoft.com
+3.dl.delivery.mp.microsoft.com.c.footprint.net
+3.tlu.dl.delivery.mp.microsoft.com
+3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net
+au.download.windowsupdate.com
+ctldl.windowsupdate.com
+definitionupdates.microsoft.com
+fg.download.windowsupdate.com.c.footprint.net
+geo-prod.do.dsp.mp.microsoft.com
+geover-prod.do.dsp.mp.microsoft.com
+sls.update.microsoft.com
+# TBC 2019-11
+evoke-windowsservices-tas.msedge.net
+
+# Microsoft Store
+storeedgefd.dsx.mp.microsoft.com
+pti.store.microsoft.com
+displaycatalog.mp.microsoft.com
+purchase.mp.microsoft.com
+
+# Windows Defender
+wdcp.microsoft.com
+definitionupdates.microsoft.com
+
+# BitLocker
+g.live.com
+
+# Office
+officeclient.microsoft.com
+activation.sls.microsoft.com
+officecdn.microsoft.com
+officecdn.microsoft.com.edgesuite.net
+ocos-office365-s2s.msedge.net
+img-prod-cms-rt-microsoft-com.akamaized.net
+az725175.vo.msecnd.net
+
+# Outlook
+microsoftonline-p.com
+secure.aadcdn.microsoftonline-p.com
+login.microsoftonline.com
+attachments.office.net
+logincdn.msauth.net
+swc.cdn.skype.com
+
+# Outlook Mobile
+mobile.pipe.aria.microsoft.com
+outlookmobile-office365-tas.msedge.net
+# Testing 2019-06-13
+app.adjust.com
+
+
+# Outlook Online
+browser.pipe.aria.microsoft.com
+
+# Onedrive
+onedrive.live.com
+g.live.com
+oneclient.sfx.ms
+
+# Add User
+dmd.metaservices.microsoft.com
+
+# Downloads
+download.microsoft.com
+
+# Time / NTP
+time.windows.com
+
+# SmartScreen
+client.wns.windows.com
+checkappexec.microsoft.com
+
+# Misc
+answers.microsoft.com
+login.windows.net
+
+# Store
+store-images.s-microsoft.com
+
+# MSN
+msn.com
+www.msn.com
+
+# Unknown
+oneclient.sfx.ms
+dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+
+# Microsoft OneDrive
+1drv.ms
+
+
+
+# Microsoft
+
+microsoft.com
+www.microsoft.com
+
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1809-endpoints
+
+statics-neu.onestore.ms
+assets.onestore.ms
+auth.gfx.ms
+aka.ms

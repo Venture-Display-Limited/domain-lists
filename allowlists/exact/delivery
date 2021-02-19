@@ -1,0 +1,48 @@
+# =========================================================
+# COURIER & POST
+# =========================================================
+
+# TNT
+ftp.tnt.co.uk
+direct.tnt.co.uk
+tnt.com
+www.tnt.com
+d.tnt.com
+swd.gslb.fedex.com
+d.tnt.com
+gdl-specs.tnt-digital.com
+prd.tnt-digital.com
+cross-track-service.tnt-digital.com
+tnt-digital.com
+express.tnt.com
+
+# DX Freight
+dxfreight.co.uk
+www.dxfreight.co.uk
+dx-track.com
+www.dx-track.com
+dm6.dxfreight.co.uk
+
+# Royal Mail
+www.postoffice.co.uk
+www.royalmail.akadns.net
+api.postcodefinder.royalmail.com
+track2.royalmail.com
+
+# Pitney Bowes
+pitneybowes.us
+www.pitneybowes.us
+pbcdn.pbui.us
+
+# APC Overnight
+apc-overnight.com
+www.apc-overnight.com
+
+# DHL
+webtrack.dhlglobalmail.com
+
+# Pitney Bowes Franking Machine
+slpb-eu-west-1-imp03a.boxen.sl.pb.com
+imp.sl.pb.com
+imp.irl.sl.pb.com
+slpb-eu-west-1-imp01b.boxen.sl.pb.com
