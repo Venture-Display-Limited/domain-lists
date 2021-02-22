@@ -4,7 +4,6 @@
 
 	ads
 	adult
-	all
 	business-lookalike
 	illegal
 	lookalike
@@ -19,7 +18,6 @@
 
 	ads-tracking
 	adult
-	all
 	business-lookalike
 	coronavirus-covid-19
 	idn
