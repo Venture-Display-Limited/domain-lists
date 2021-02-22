@@ -1,29 +1,71 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Exact Blocklists
 
-### What is this repository for? ###
+	ads
+	adult
+	all
+	business-lookalike
+	illegal
+	lookalike
+	microsoft
+	misc
+	network
+	phishing-malware
+	spam-received
+	url-shorteners
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Regex Blocklists
 
-### How do I get set up? ###
+	ads-tracking
+	adult
+	all
+	business-lookalike
+	coronavirus-covid-19
+	idn
+	illegal
+	media
+	phishing-malware
+	spam-received
+	tld-countries
+	tld-generic
+	tld-stuffing
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Exact Allowlists
 
-### Contribution guidelines ###
+	apple
+	business
+	communication
+	customers
+	delivery
+	domain-lists
+	download
+	events
+	financial
+	google
+	local
+	media
+	microsoft
+	misc
+	network
+	news
+	pki
+	productivity
+	resource
+	security
+	shopping
+	social
+	software
+	staff-personal
+	suppliers
+	travel
+	vb-media
+	visitors
+	web
+	web-development
+	
+## Regex Allowlists
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+	business
+	communication
+	vb-media
