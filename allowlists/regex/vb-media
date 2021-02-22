@@ -1,0 +1,9 @@
+# Primary business domains
+(^|\.)vb\.media$
+(^|\.)media-library\.app$
+(^|\.)sendmailer\.email$
+
+# Future projects
+(^|\.)contents\.delivery$
+(^|\.)c-d-n\.app$
+(^|\.)c-d\.network$

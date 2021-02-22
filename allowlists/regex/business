@@ -1,0 +1,14 @@
+# Primary business domains
+(^|\.)venturebanners\.co\.uk$
+(^|\.)vb-oa\.co\.uk$
+(^|\.)venturebaners\.network$
+
+# Mostly deprecated
+(^|\.)int-vb\.co\.uk$
+
+# Redirects
+(^|\.)venturebanners\.uk$
+(^|\.)venturebanners\.dev$
+(^|\.)venturebanners\.net$
+(^|\.)venture-banners\.com$
+(^|\.)venture-banners\.co\.uk$
