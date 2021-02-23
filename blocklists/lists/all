@@ -1,3 +1,18 @@
+# Venture Banners blocklists
+
+https://domain-lists.venturebanners.network/blocklists/exact/adult
+https://domain-lists.venturebanners.network/blocklists/exact/business-lookalike
+https://domain-lists.venturebanners.network/blocklists/exact/illegal
+https://domain-lists.venturebanners.network/blocklists/exact/lookalike
+https://domain-lists.venturebanners.network/blocklists/exact/microsoft
+https://domain-lists.venturebanners.network/blocklists/exact/misc
+https://domain-lists.venturebanners.network/blocklists/exact/network
+https://domain-lists.venturebanners.network/blocklists/exact/phishing-malware
+https://domain-lists.venturebanners.network/blocklists/exact/spam-received
+https://domain-lists.venturebanners.network/blocklists/exact/url-shorteners
+
+# =============================================================================
+
 # Copied from original Pi-hole default lists
 
 https://sysctl.org/cameleon/hosts
