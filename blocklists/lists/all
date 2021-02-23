@@ -1,6 +1,6 @@
 # Copied from original Pi-hole default lists
 
-http://sysctl.org/cameleon/hosts
+https://sysctl.org/cameleon/hosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
@@ -11,8 +11,8 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 
 # =============================================================================
 
-# See http://winhelp2002.mvps.org/
-http://winhelp2002.mvps.org/hosts.txt
+# See https://winhelp2002.mvps.org/
+https://winhelp2002.mvps.org/hosts.txt
 
 # =============================================================================
 
@@ -204,7 +204,7 @@ https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
 # =============================================================================
 
-http://jasonhill.co.uk/pfsense/ublock_malware.txt
+https://jasonhill.co.uk/pfsense/ublock_malware.txt
 
 # =============================================================================
 
