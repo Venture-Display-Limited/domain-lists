@@ -55,6 +55,9 @@ geover-prod.do.dsp.mp.microsoft.com
 sls.update.microsoft.com
 # TBC 2019-11
 evoke-windowsservices-tas.msedge.net
+slscr.update.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+fe2cr.update.microsoft.com
 
 # Microsoft Store
 storeedgefd.dsx.mp.microsoft.com
