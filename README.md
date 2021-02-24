@@ -49,6 +49,7 @@
 	news
 	pki
 	productivity
+	remote-work
 	resource
 	security
 	shopping
@@ -66,4 +67,5 @@
 
 	business
 	communication
+	remote-work
 	vb-media
