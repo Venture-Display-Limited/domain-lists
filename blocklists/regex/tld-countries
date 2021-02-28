@@ -52,7 +52,7 @@
 # Aruba
 (^|\.)aw$
 
-# Ã…land
+# Åland Islands
 (^|\.)ax$
 
 # Azerbaijan
@@ -562,7 +562,7 @@
 # Qatar
 (^|\.)qa$
 
-# RÃ©union
+# Réunion
 (^|\.)re$
 
 # Romania
@@ -625,7 +625,7 @@
 # South Sudan
 (^|\.)ss$
 
-# SÃ£o TomÃ© and PrÃ­ncipe
+# São Tomé and Príncipe
 (^|\.)st$
 
 # Soviet Union
@@ -704,7 +704,7 @@
 (^|\.)um$
 
 # United States of America
-
+#(^|\.)us$
 
 # Uruguay
 (^|\.)uy$
