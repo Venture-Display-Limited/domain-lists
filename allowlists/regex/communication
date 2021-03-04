@@ -1,2 +1,5 @@
 # Zoom
 (^|\.)zoom\.us$
+
+# Network localdomain
+(^|\.)localdomain$
