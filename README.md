@@ -20,7 +20,6 @@
 	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/adult")
 	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/business-lookalike")
 	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/coronavirus-covid-19")
-	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/idn")
 	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/illegal")
 	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/media")
 	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/phishing-malware")
