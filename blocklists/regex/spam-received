@@ -1,3 +1,4 @@
+# Entire domains
 (^|\.)ptycpu\.date$
 (^|\.)quotaman\.date$
 (^|\.)cydput\.date$
@@ -295,9 +296,10 @@
 (^|\.)a4technical\.ru\.com$
 (^|\.)masterstouch-carpetcleaning\.com$
 (^|\.)hareenxe\.com$
-
+(^|\.)bedstay41\.com$
 
 
 # Terms
 onedocument-sharedsecured
 servics\.com
+app\.mailgun\.com\.
