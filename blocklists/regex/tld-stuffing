@@ -1,6 +1,8 @@
 \.com-
-\.com\.
 \.co\.uk-
 \.co\.uk\.
 -www
 \.www
+
+# Prevents *.com.edgekey.net domains
+# \.com\.
