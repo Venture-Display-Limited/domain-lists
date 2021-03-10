@@ -34,6 +34,10 @@ player.absoluteradio.co.uk
 ais.absoluteradio.co.uk
 cdn.absoluteradio.co.uk
 
+# Planet Radio
+listenapi.planetradio.co.uk
+listenapi.planetradio.co.uk.cdn.cloudflare.net
+
 # Planet Rock
 gdpr-tcfv2.sp-prod.net
 
