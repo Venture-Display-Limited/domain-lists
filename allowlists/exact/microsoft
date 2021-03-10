@@ -2,7 +2,13 @@
 # MICROSOFT
 # =========================================================
 
-# https://docs.microsoft.com/en-us/windows/configuration/manage-windows-endpoints-version-1709
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1709-endpoints
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1803-endpoints
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1809-endpoints
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1903-endpoints
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1909-endpoints
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-2004-endpoints
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-20h2-endpoints
 
 # Windows Network Connectivity
 msftncsi.com
