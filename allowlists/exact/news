@@ -15,6 +15,12 @@ nav.files.bbci.co.uk
 mybbc.files.bbci.co.uk
 trevor-producer-cdn.api.bbci.co.uk
 trevor-producer-cdn.api.bbci.co.uk.edgekey.net
+idcta.api.bbc.co.uk
+idcta-cdn.api.bbc.co.uk.edgekey.net
+trevor-resolver-cdn.api.bbci.co.uk
+trevor-resolver-cdn.api.bbci.co.uk.edgekey.net
+map-remote-config.files.bbci.co.uk
+map-remote-config.files.bbci.co.uk.edgekey.net
 
 # Express
 express.co.uk
