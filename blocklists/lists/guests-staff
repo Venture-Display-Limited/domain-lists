@@ -11,29 +11,5 @@ https://domain-lists.venturebanners.network/blocklists/exact/url-shorteners
 
 # =============================================================================
 
-# Copied from original Pi-hole default lists
-
-https://sysctl.org/cameleon/hosts
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-
-# =============================================================================
-
-# See https://github.com/StevenBlack/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
-
-# =============================================================================
-
-# See https://winhelp2002.mvps.org/
-https://winhelp2002.mvps.org/hosts.txt
-
-# =============================================================================
-
-# See https://github.com/crazy-max/WindowsSpyBlocker/tree/master/data/hosts
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
-
-# =============================================================================
-
-# See https://github.com/AdAway/adaway.github.io
-https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+# Default
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
