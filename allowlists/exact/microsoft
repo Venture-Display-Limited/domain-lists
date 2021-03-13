@@ -65,6 +65,10 @@ au.download.windowsupdate.com.c.footprint.net
 2.tlu.dl.delivery.mp.microsoft.com
 2.tlu.dl.delivery.mp.microsoft.com.edgesuite.net
 
+# Microsoft Edge Updates
+msedge.api.cdp.microsoft.com
+api.cdp.dsp.mp.microsoft.com.nsatc.net
+
 # TBC 2019-11
 evoke-windowsservices-tas.msedge.net
 slscr.update.microsoft.com
