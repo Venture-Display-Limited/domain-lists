@@ -7,3 +7,6 @@
 (^|\.)contents\.delivery$
 (^|\.)c-d-n\.app$
 (^|\.)c-d\.network$
+
+# Competitors
+(^|\.)printsite.cloud$
