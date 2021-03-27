@@ -6,4 +6,4 @@
 # Prevents *.com.edgekey.net CNAME domains
 # \.com\.
 # \.co\.uk\.
-\.www
+# \.www
