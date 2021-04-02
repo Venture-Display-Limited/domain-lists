@@ -60,6 +60,8 @@ cloudaccess.svc.ubnt.com
 elite-device.svc.ubnt.com
 ping.ui.com
 ping.ubnt.com
+deb.nodesource.com
+deb.nodesource.com-v2.akamaized.net
 
 # Ubuntu / Debian
 api.snapcraft.io
