@@ -285,7 +285,7 @@
 (^|\.)dentist$
 (^|\.)desi$
 (^|\.)design$
-(^|\.)dev$
+#(^|\.)dev$
 (^|\.)dhl$
 (^|\.)diamonds$
 (^|\.)diet$
