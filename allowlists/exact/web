@@ -34,6 +34,10 @@ static.hotjar.com
 script.hotjar.com
 825-wpk-761.mktoresp.com
 
+# Let's Encrypt
+letsencrypt.org
+r3.o.lencr.org
+
 
 # =========================================================
 # REGISTRAR
