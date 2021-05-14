@@ -10,3 +10,6 @@
 
 # Competitors
 (^|\.)printsite\.cloud$
+
+# Suppliers
+(^|\.)inky\.cloud$
