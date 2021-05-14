@@ -1,5 +1,8 @@
 # Primary business domains
 (^|\.)vb\.media$
+(^|\.)vbmedia\.site$
+(^|\.)vbmedia\.website$
+(^|\.)vbmedia\.domains$
 (^|\.)media-library\.app$
 (^|\.)sendmailer\.email$
 
