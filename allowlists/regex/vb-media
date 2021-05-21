@@ -16,3 +16,6 @@
 
 # Suppliers
 (^|\.)inky\.cloud$
+
+# Web Development
+(^|\.)serverless\.com$
