@@ -432,6 +432,10 @@ irp.cdn-website.com
 static.cdn-website.com
 lirp.cdn-website.com
 
+# Customer 3rd Party Services
+app.responseiq.com
+widget.trustpilot.com
+
 # ===================================================================================
 # This block of text and unique string must stay present at the bottom of the file
 # 0s7V1cIBdJIGvfieXOAp45lmNl
