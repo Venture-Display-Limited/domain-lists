@@ -13,5 +13,8 @@
 (^|\.)venture-banners\.com$
 (^|\.)venture-banners\.co\.uk$
 
+# Couriers
+(^|\.)express\.dhl$
+
 # Web Development
 (^|\.)atlassian\.com$
