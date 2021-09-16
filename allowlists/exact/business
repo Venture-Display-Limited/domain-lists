@@ -66,6 +66,10 @@ venture.wetransfer.com
 sendgrid.net
 prod-cdn.wetransfer.net
 
+# Filemail
+venture-display.filemail.com
+venturebanners.filemail.com
+
 # VB-OA
 chart.googleapis.com
 quickchart.io
