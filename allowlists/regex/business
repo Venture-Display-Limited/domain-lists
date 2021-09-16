@@ -16,5 +16,8 @@
 # Couriers
 (^|\.)express\.dhl$
 
+# Downloads
+(^|\.)filemail\.com$
+
 # Web Development
 (^|\.)atlassian\.com$
