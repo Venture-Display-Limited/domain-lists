@@ -3,6 +3,7 @@
 (^|\.)vbmedia\.site$
 (^|\.)vbmedia\.website$
 (^|\.)vbmedia\.domains$
+(^|\.)vbmedia\.pro$
 (^|\.)media-library\.app$
 (^|\.)sendmailer\.email$
 
