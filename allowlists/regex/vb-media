@@ -6,6 +6,7 @@
 (^|\.)vbmedia\.pro$
 (^|\.)media-library\.app$
 (^|\.)sendmailer\.email$
+(^|\.)vbmedia\.style$
 
 # Future projects
 (^|\.)contents\.delivery$
