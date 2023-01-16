@@ -22,3 +22,6 @@
 (^|\.)s\.googlevideo\.com$
 (^|\.)y\.googlevideo\.com$
 (^|\.)z\.googlevideo\.com$
+
+# BBC iPlayer
+live.bidi.net.uk
