@@ -21,6 +21,7 @@
 
 # Web Development
 (^|\.)serverless\.com$
+(^|\.)ampt\.app$
 
 # Tawk To
 (^|\.)tawk\.to$
