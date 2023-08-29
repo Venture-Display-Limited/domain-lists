@@ -12,6 +12,8 @@
 (^|\.)contents\.delivery$
 (^|\.)c-d-n\.app$
 (^|\.)c-d\.network$
+(^|\.)printsite\.store$
+(^|\.)printsite\.shop$
 
 # Competitors
 (^|\.)printsite\.cloud$
