@@ -16,7 +16,7 @@
 # Couriers
 (^|\.)express\.dhl$
 
-# Pitney Bowes / Franking
+# Pitney Bowes and Franking
 (^|\.)pb\.com$
 
 # Downloads
