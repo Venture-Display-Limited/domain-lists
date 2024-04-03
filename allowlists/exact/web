@@ -134,6 +134,9 @@ kit.fontawesome.com.cdn.cloudflare.net
 # Wix
 static.parastorage.com
 
+# Fastly
+d.sni.global.fastly.net
+
 # =========================================================
 # Asset Hosting
 # =========================================================
