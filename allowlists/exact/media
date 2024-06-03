@@ -50,6 +50,11 @@ listenapi.planetradio.co.uk.cdn.cloudflare.net
 # Planet Rock
 gdpr-tcfv2.sp-prod.net
 
+# Internet Radio UK
+instant.audio
+cdn.instant.audio
+api.instant.audio
+
 # ===================================================================================
 # This block of text and unique string must stay present at the bottom of the file
 # 0s7V1cIBdJIGvfieXOAp45lmNl
