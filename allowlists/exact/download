@@ -25,11 +25,10 @@ fil.email
 filemail.com
 www.filemail.com
 
-# File Transfers
-
-we.tl
+# MailBigFile
 mbf.me
 mbf.cc
+app.mbf.me
 
 # ===================================================================================
 # This block of text and unique string must stay present at the bottom of the file
