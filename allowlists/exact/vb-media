@@ -513,8 +513,12 @@ www.floorplan.live
 # Filestack
 cdn.filestackcontent.com
 
-# DEvelopment
+# Development
 aws.connect.psdb.cloud
+
+# Preflight Services
+atomyx.io
+www.atomyx.io
 
 # ===================================================================================
 # This block of text and unique string must stay present at the bottom of the file
