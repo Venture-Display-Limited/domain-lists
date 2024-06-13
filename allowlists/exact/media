@@ -55,6 +55,13 @@ instant.audio
 cdn.instant.audio
 api.instant.audio
 
+# =========================================================
+# GOOGLE PHOTOS
+# =========================================================
+
+photos.googleapis.com
+device-provisioning.googleapis.com
+
 # ===================================================================================
 # This block of text and unique string must stay present at the bottom of the file
 # 0s7V1cIBdJIGvfieXOAp45lmNl
