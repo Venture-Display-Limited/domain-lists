@@ -7,3 +7,25 @@
 
 # Network localdomain
 (^|\.)localdomain$
+
+# Campaign Monitor
+(^|\.)cmail1\.com$
+(^|\.)cmail2\.com$
+(^|\.)cmail3\.com$
+(^|\.)cmail4\.com$
+(^|\.)cmail5\.com$
+(^|\.)cmail6\.com$
+(^|\.)cmail7\.com$
+(^|\.)cmail8\.com$
+(^|\.)cmail9\.com$
+(^|\.)cmail10\.com$
+(^|\.)cmail11\.com$
+(^|\.)cmail12\.com$
+(^|\.)cmail13\.com$
+(^|\.)cmail14\.com$
+(^|\.)cmail15\.com$
+(^|\.)cmail16\.com$
+(^|\.)cmail17\.com$
+(^|\.)cmail18\.com$
+(^|\.)cmail19\.com$
+(^|\.)createsend7\.com$
