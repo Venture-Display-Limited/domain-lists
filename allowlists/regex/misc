@@ -1,3 +1,6 @@
 # UK Government
 uk\.gov$
 \.gov\.uk$
+
+# Instagram
+\.cdninstagram.com$
