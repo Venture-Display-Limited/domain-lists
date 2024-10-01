@@ -13,6 +13,23 @@ email.wetransfer.com
 we.tl
 email.wetransfer.com
 backgrounds.wetransfer.net
+venture.wetransfer.com
+sendgrid.net
+prod-cdn.wetransfer.net
+
+# Filemail
+fil.email
+filemail.com
+www.filemail.com
+venture-display.filemail.com
+venturebanners.filemail.com
+3003.filemail.com
+2016-2.filemail.com
+2017.filemail.com
+2012.filemail.com
+api.filemail.com
+filemailprod.blob.core.windows.net
+filemailcom.intercom-mail.com
 
 # Hightail
 api.spaces.hightail.com
@@ -20,10 +37,6 @@ download.spaces.hightail.com
 spaces-hightail.global.ssl.fastly.net
 spaces.hightail.com
 
-# Filemail
-fil.email
-filemail.com
-www.filemail.com
 
 # MailBigFile
 mbf.me
