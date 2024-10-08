@@ -62,6 +62,9 @@ khms1.googleapis.com
 khms0.googleapis.com
 streetviewpixels-pa.googleapis.com
 
+# Google Calendar
+apis.google.com
+
 # Google Photos
 video-downloads.googleusercontent.com
 
