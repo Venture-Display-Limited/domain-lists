@@ -106,7 +106,6 @@ fast-prod-cluster-loki.uksouth.cloudapp.azure.com
 mrodevicemgr.officeapps.live.com
 ecs.office.com
 mobile.events.data.microsoft.com
-res.public.onecdn.static.microsoft
 
 # Outlook
 microsoftonline-p.com
@@ -117,6 +116,9 @@ logincdn.msauth.net
 swc.cdn.skype.com
 prod.msocdn.com
 r1.res.office365.com
+res.public.onecdn.static.microsoft
+eu-office.events.data.microsoft.com
+res.cdn.office.net
 
 # Outlook Mobile
 mobile.pipe.aria.microsoft.com
