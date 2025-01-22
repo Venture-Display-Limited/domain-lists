@@ -109,6 +109,18 @@ mobile.events.data.microsoft.com
 oneocsp.microsoft.com
 admin.cloud.microsoft
 
+# Office Issues 2025-01 Tests
+substrate.office.com
+graph.microsoft.com
+activity.windows.com
+exo.nel.measure.office.net
+clients.config.office.net
+m365cdn.nel.measure.office.net
+config.fp.measure.office.com
+upload.fp.measure.office.com
+upload2.fp.measure.office.com
+aad.cs.dds.microsoft.com
+
 # Outlook
 microsoftonline-p.com
 secure.aadcdn.microsoftonline-p.com
