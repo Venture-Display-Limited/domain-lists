@@ -30,3 +30,7 @@
 (^|\.)cmail19\.com$
 (^|\.)cmail20\.com$
 (^|\.)createsend7\.com$
+
+# WhatsApp
+(^|\.)whatsapp\.net$
+(^|\.)whatsapp\.com$
