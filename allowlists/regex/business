@@ -21,6 +21,8 @@
 
 # Downloads
 (^|\.)filemail\.com$
+(^|\.)filestack\.com$
+(^|\.)filestackapi\.com$
 
 # Web Development
 (^|\.)atlassian\.com$
