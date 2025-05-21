@@ -26,3 +26,6 @@
 
 # Web Development
 (^|\.)atlassian\.com$
+
+# Cloudflare Workers
+(^|\.)venture\.workers\.dev$
