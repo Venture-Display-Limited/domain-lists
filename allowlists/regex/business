@@ -29,3 +29,6 @@
 
 # Cloudflare Workers
 (^|\.)venture\.workers\.dev$
+
+# M247
+(^|\.)m247\.ro
