@@ -667,7 +667,7 @@
 (^|\.)merckmsd$
 (^|\.)metlife$
 (^|\.)miami$
-(^|\.)microsoft$
+#(^|\.)microsoft$
 (^|\.)mini$
 (^|\.)mint$
 (^|\.)mit$
