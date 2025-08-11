@@ -35,6 +35,7 @@ filemailprod.blob.core.windows.net
 filemailcom.intercom-mail.com
 eligibility.wootric.com
 wootric-eligibility.herokuapp.com
+production.wootric.com
 
 # Hightail
 api.spaces.hightail.com
