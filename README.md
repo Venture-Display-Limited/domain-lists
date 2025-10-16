@@ -2,7 +2,7 @@
 
 ## Exact Blocklists (for use with standard Gravity or blocklist subscription script)
 
-	https://domain-lists.venturebanners.network/blocklists/exact/ads
+https://domain-lists.venturebanners.network/blocklists/exact/ads
 	https://domain-lists.venturebanners.network/blocklists/exact/adult
 	https://domain-lists.venturebanners.network/blocklists/exact/business-lookalike
 	https://domain-lists.venturebanners.network/blocklists/exact/illegal
@@ -16,7 +16,7 @@
 
 ## Regex Blocklists
 
-	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/ads-tracking")
+BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/ads-tracking")
 	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/adult")
 	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/business-lookalike")
 	BLOCKLISTS_REGEX+=("https://domain-lists.venturebanners.network/blocklists/regex/coronavirus-covid-19")
@@ -30,7 +30,7 @@
 
 ## Exact Allowlists
 
-	ALLOWLISTS_EXACT+=("https://domain-lists.venturebanners.network/allowlists/exact/apple")
+ALLOWLISTS_EXACT+=("https://domain-lists.venturebanners.network/allowlists/exact/apple")
 	ALLOWLISTS_EXACT+=("https://domain-lists.venturebanners.network/allowlists/exact/business")
 	ALLOWLISTS_EXACT+=("https://domain-lists.venturebanners.network/allowlists/exact/communication")
 	ALLOWLISTS_EXACT+=("https://domain-lists.venturebanners.network/allowlists/exact/customers")
@@ -64,7 +64,7 @@
 	
 ## Regex Allowlists
 
-	ALLOWLISTS_REGEX+=("https://domain-lists.venturebanners.network/allowlists/regex/business")
+ALLOWLISTS_REGEX+=("https://domain-lists.venturebanners.network/allowlists/regex/business")
 	ALLOWLISTS_REGEX+=("https://domain-lists.venturebanners.network/allowlists/regex/communication")
 	ALLOWLISTS_REGEX+=("https://domain-lists.venturebanners.network/allowlists/regex/remote-work")
 	ALLOWLISTS_REGEX+=("https://domain-lists.venturebanners.network/allowlists/regex/vb-media")
