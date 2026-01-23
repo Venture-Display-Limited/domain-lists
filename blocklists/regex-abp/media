@@ -1,0 +1,27 @@
+! =========================================================
+! RADIO
+! =========================================================
+
+||adswizz.com^
+
+
+! =========================================================
+! YOUTUBE ADS
+! =========================================================
+
+
+! From http://jasonhill.co.uk/pfsense/ytadblock.txt
+
+||6.googlevideo.com^
+||7.googlevideo.com^
+||d.googlevideo.com^
+||e.googlevideo.com^
+||k.googlevideo.com^
+||l.googlevideo.com^
+||r.googlevideo.com^
+||s.googlevideo.com^
+||y.googlevideo.com^
+||z.googlevideo.com^
+
+! BBC iPlayer
+||live.bidi.net.uk^
