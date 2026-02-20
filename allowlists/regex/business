@@ -1,7 +1,5 @@
 # Primary business domains
 (^|\.)venturebanners\.co\.uk$
-||venturebanners.co.uk^
-@@||venturebanners.co.uk^
 (^|\.)vb-oa\.co\.uk$
 (^|\.)venturebaners\.network$
 
@@ -34,7 +32,3 @@
 
 # M247
 (^|\.)m247\.ro
-
-
-# Test ABP-style domain for v5
-@@||test-sbskgjnskgjn.com
