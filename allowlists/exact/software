@@ -574,19 +574,6 @@ repo00.netgate.com
 auth01.netgate.com
 acb.netgate.com
 
-# Netgear
-netgear.opendns.com
-downloadcenter.netgear.com
-support.netgear.com
-www.netgear.com
-netgear.com
-updates1.netgear.com
-time-h.netgear.com
-
-# Synology
-pkgautoupdate.synology.com
-payment.synology.com
-
 # =========================================================
 # REMOTE ACCESS
 # =========================================================
@@ -602,27 +589,20 @@ broker.gotoassist.com
 launch.getgo.com
 static.getgocdn.com
 
-# James Hamilton
+# LogMeIn
 logmein.com
 www.logmein.com
 secure.logmein.com
 wt.logmein.com
-
-# LogMeIn
 accounts.logme.in
 logme.in
 www.logme.in
 
-
-
-
 # Canary
-
 snowplow.canary.is
 my.canary.is
 canary.is
 www.canary.is
-
 
 # Honeywell
 device-messaging-na.amazon.com
