@@ -1,6 +1,7 @@
 # RingCentral / BT
 (^|\.)ringcentral\.com$
 (^|\.)ringcentral\.biz$
+(^|\.)cloudwork\.bt\.com$
 
 # Zoom
 (^|\.)zoom\.us$
