@@ -78,6 +78,7 @@ letsencrypt.org
 # Google
 crl.pki.goog
 ocsp.pki.goog
+c.pki.goog
 
 # ===================================================================================
 # This block of text and unique string must stay present at the bottom of the file
