@@ -584,6 +584,11 @@ repo00.netgate.com
 auth01.netgate.com
 acb.netgate.com
 
+# JetKVM
+api.jetkvm.com
+
+
+
 # =========================================================
 # REMOTE ACCESS
 # =========================================================
