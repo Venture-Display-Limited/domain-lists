@@ -52,6 +52,7 @@ presence.api.drift.com
 customer.api.drift.com
 js.hs-scripts.com
 sdk.split.io
+ssl.redocly.app
 
 # Mailgun email previews
 dev.visualwebsiteoptimizer.com
