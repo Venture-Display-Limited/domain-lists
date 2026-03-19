@@ -135,6 +135,12 @@ r1.res.office365.com
 res.public.onecdn.static.microsoft
 eu-office.events.data.microsoft.com
 res.cdn.office.net
+acdcatm.outlook.mira.tm.svc.cloud.microsoft
+outlook.ms-acdc.office.com
+LHR-efz.ms-acdc.office.com
+atm.outlook.mira.tm.svc.cloud.microsoft
+acdcatm.outlook.mira.tm.svc.cloud.microsoft
+
 
 # Outlook Mobile
 mobile.pipe.aria.microsoft.com
