@@ -133,14 +133,15 @@ gocardless.cdn.prismic.io
 xero.gocardless.com
 api.gocardless.com
 
-
 # European Commission/VAT Numbers
 ec.europa.eu
-
 
 # Gocompare
 gocompare.com
 www.gocompare.com
+
+# Revolut
+revolut-business.onelink.me
 
 # ===================================================================================
 # This block of text and unique string must stay present at the bottom of the file
