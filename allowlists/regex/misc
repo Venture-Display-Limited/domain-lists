@@ -7,3 +7,8 @@ uk\.gov$
 
 # One Network (Road Closures)
 \.one\.network$
+
+# Netflix
+\.netflix\.com
+\.nflxso\.net
+\.nflxvideo\.net
