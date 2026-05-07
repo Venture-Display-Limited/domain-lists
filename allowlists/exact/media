@@ -31,6 +31,9 @@ cdn.privacy.paramount.com
 conduit.redfast.com
 production-cmp.isgprivacy.cbsi.com
 
+# Netflix
+logs.netflix.com
+
 # =========================================================
 # TV
 # =========================================================
