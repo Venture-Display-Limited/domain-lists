@@ -54,6 +54,9 @@ cem.lloydsbank.com
 s16370.cdn.lloydsbanking.com
 s14425.cdn.lloydsbanking.com
 
+# Capital on Tap
+browser-intake-datadoghq.eu
+
 # Online Payments - Visa, Mastercard etc.
 secure4.arcot.com
 secure7.arcot.com
