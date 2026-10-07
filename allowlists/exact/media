@@ -28,6 +28,7 @@ secure.wistia.com
 
 # SoundCloud
 assets.web.soundcloud.cloud
+playback.media-streaming.soundcloud.cloud
 
 # =========================================================
 # Streaming
